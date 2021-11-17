@@ -1,0 +1,30 @@
+<%
+    person_sessions = data.sessions.select{ |s| s.speaker_id == person.tag }
+    person_workshops = data.workshops.items.select{ |w| w.speaker_tags.include? person.tag }
+%>
+
+<section id="person-details">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-3 col-xs-2 col-sm-3 person-photo">
+                <div>
+                    <%= partial "partials/person_photo", :locals => { :person => person } %>
+                </div>
+            </div>
+            <div class="col-9 col-xs-10 col-sm-9 details-content">
+                <h1><%= person.name %></h1>
+                <div class="socials">
+                    <%= partial "partials/person_socials", :locals => { :socials => person.social } %>
+                </div>
+                <div class="content-wrapper d-none d-md-block">
+                    <%= partial(:person_details_content, :locals => { :person => person, :sessions => person_sessions, :workshops => person_workshops }) %>
+                </div>
+            </div>
+        </div>
+        <div class="row d-md-none content-wrapper">
+            <div class="col">
+                <%= partial(:person_details_content, :locals => { :person => person, :sessions => person_sessions, :workshops => person_workshops }) %>
+            </div>
+        </div>
+    </div>
+</section>

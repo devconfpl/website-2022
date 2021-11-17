@@ -1,0 +1,38 @@
+<%
+    slot_id = day * 100 + room * 10 + slot
+    slot_time_id = day * 100 + slot
+
+    slot_start_time = Time.parse(data.slots[slot_time_id])
+    slot_end_time = slot_start_time + data.general.slot_length * 60
+
+    session = data.sessions.find { |s| s.slot == slot_id }
+    speaker = session.nil? ? nil : data.speakers.find { |s| s.tag == session.speaker_id }
+%>
+
+<div class="panel schedule-item">
+    <div class="lecture-time-wrapper">
+        <%= slot_start_time.strftime("%R") %> - <%= slot_end_time.strftime("%R") %>
+    </div>
+    <a data-toggle="collapse" href="#schedule-day-<%= day %>-room-<%= room %>-time-<%= slot %>" class="schedule-item-toggle collapsed" role="button"> 
+        <div class="lecture-speaker-photo">
+            <% unless session.nil? %>
+                <%= partial "partials/person_photo", :locals => { :person => speaker } %>
+            <% end %>
+        </div>
+        <div class="lecture-details">
+            <h5><%= session.nil? ? "&nbsp;" : session.title %></h5>
+            <h6><%= session.nil? ? "&nbsp;" : speaker.name %></h6>
+        </div>
+
+        <% unless session.nil? %>
+            <span class="lnr lnr-chevron-down"></span>
+            <span class="lnr lnr-chevron-up"></span>
+        <% end %>
+    </a>
+
+    <% unless session.nil? %>
+        <div id="schedule-day-<%= day %>-room-<%= room %>-time-<%= slot %>" class="panel-collapse collapse schedule-item-body">
+            <%= partial "sessions/" + session.id %>
+        </div>
+    <% end %>
+</div>

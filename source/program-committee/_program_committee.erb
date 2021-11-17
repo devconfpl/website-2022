@@ -1,0 +1,18 @@
+<section id="program-committee">
+    <div class="container-fluid">
+        <div class="section-header text-center">
+            <h3>Program Committee</h3>
+            <p class="mb-1">
+                Meet the <strong>board</strong>.
+            <p class="mb-1">
+            <p>
+                People responsible for the content.
+            </p>
+        </div>
+        <div class="card-deck">
+            <% data.program_committee.sort_by(&:surname).each do |p| %>
+                <%= partial(:person, :locals => { :person => p }) %>
+            <% end %>
+        </div>
+    </div>
+</section>

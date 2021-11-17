@@ -1,0 +1,25 @@
+<section id="scholarship-partners">
+    <div class="container-fluid">
+        <div class="section-header text-center">
+            <h3>Scholarship Partners</h3>
+            <p class="mb-1">
+                Read <strong><a href="https://medium.com/@devconfPL/diversity-scholarship-for-devconf-a5b22dfe5f30">more</a></strong> about our diversity scholarship.
+            </p>
+        </div>
+
+        <div class="row justify-content-center flex-column">
+            <div class="scholarship-partner-group">
+                <% data.scholarship_partners.each do |p| %>
+                    <div class="scholarship-partner <%= p.narrow ? 'narrow' : '' %>">
+                        <a href="<%= utm_link p.link %>">
+                            <%= tag :img, 
+                                :src => '/images/partners/' + p.id + '.png', 
+                                :alt => p.name
+                            %>
+                        </a>
+                    </div>
+                <% end %>
+            </div>
+        </div>
+    </div>
+</section>

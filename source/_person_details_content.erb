@@ -1,0 +1,34 @@
+<div>
+    <%= person.description %>
+</div>
+
+<hr />
+
+<div class="person-activities">
+    <% workshops.each do |w| %>
+        <div class="person-activity">
+            <div class="activity-time">
+                Workshop
+            </div>
+            <h4><%= w.title %></h4>
+            <p><%= w.summary %></p>
+            <p>
+                <a href="/workshops/<%= w.tag %>">More details</a>
+            </p>
+        </div>
+    <% end %>
+    <% sessions.each do |s| %>
+        <%
+            session_day = s.slot / 100
+            session_hour = s.slot / 100 * 100 + s.slot % 10
+        %>
+        <div class="person-activity">
+            <div class="activity-time">
+                <span class="lnr lnr-mic"></span>
+                Day <%= session_day %>, <%= data.slots[session_hour.to_s] %>
+            </div>
+            <h4><%= s.title %></h4>
+            <%= partial "sessions/" + s.id %>
+        </div>
+    <% end %>
+</div>

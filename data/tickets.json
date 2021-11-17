@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Blind",
+        "first_month": 1,
+        "last_month": 4,
+        "price": 499,
+        "month_available": ""
+    },
+    {
+        "name": "Early",
+        "first_month": 5,
+        "last_month": 5,
+        "price": 699,
+        "month_available": "May 2019"
+    },
+    {
+        "name": "Regular",
+        "first_month": 6,
+        "last_month": 8,
+        "price": 899,
+        "month_available": "June 2019"
+    },
+    {
+        "name": "Late",
+        "first_month": 9,
+        "last_month": 9,
+        "price": 1199,
+        "month_available": "September 2019"
+    }
+]

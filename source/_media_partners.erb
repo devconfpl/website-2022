@@ -1,0 +1,22 @@
+<section id="media-partners">
+    <div class="container-fluid">
+        <div class="section-header text-center">
+            <h3>Media Partners</h3>
+        </div>
+
+        <div class="row justify-content-center flex-column">
+            <div class="media-partner-group">
+                <% data.media_partners.each do |p| %>
+                    <div class="media-partner">
+                        <a href="<%= utm_link p.link %>">
+                            <%= tag :img, 
+                                :src => '/images/partners/' + p.id + '.png', 
+                                :alt => p.name 
+                            %>
+                        </a>
+                    </div>
+                <% end %>
+            </div>
+        </div>
+    </div>
+</section>

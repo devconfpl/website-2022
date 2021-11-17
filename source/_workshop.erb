@@ -1,0 +1,28 @@
+<% 
+    speaker_names = workshop.speaker_tags.map { |st| data.speakers.find { |s| s.tag == st }.name }.join(", ") 
+%>
+
+<div class="card wide">
+    <div class="card-body">
+        <div class="row no-gutters">
+            <div class="col-3 col-sm-2 speaker-photo">
+                <div>
+                   <%= tag :img, 
+                           :src => '/images/people/' + workshop.speaker_photo_tag + '.png', 
+                           :alt => speaker_names 
+                    %>
+                </div>
+            </div>
+            <div class="col-9 col-sm-10 workshop-details">
+                <h2>
+                    <a href="/workshops/<%= workshop.tag %>" class="stretched-link">
+                        <%= workshop.title %>
+                    </a>
+                </h2>
+                <h5>
+                    <%= speaker_names %>                    
+                </h5>
+            </div>
+        </div>
+    </div>
+</div>

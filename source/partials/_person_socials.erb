@@ -1,0 +1,16 @@
+<ul>
+    <% if socials.twitter.present? %>
+        <li>
+            <a href="<%= twitter_link socials.twitter %>" class="external-link">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+    <% end %>
+    <% if socials.linkedin.present? %>
+        <li>
+            <a href="<%= linkedin_link socials.linkedin %>" class="external-link">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+    <% end %>
+</ul>

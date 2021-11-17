@@ -1,0 +1,23 @@
+<%= partial(:header, :locals => { :is_light => true }) %>
+
+<%= partial "workshop_details" %>
+
+<%= partial "newsletter" %>
+
+<%= partial "info" %>
+
+<%= partial "footer" %>
+
+<% content_for :metahead do %>
+    <meta name="description" content="<%= workshop.summary %>">
+    <meta name="keywords" content="<%= workshop.tag %>, devconf, software, developers, conference">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@devconfpl" />
+    <meta name="twitter:creator" content="@devconfpl" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:url" content="https://devconf.pl/workshops/<%= workshop.tag%>" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:type" content="website" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:title" content="<%= workshop.title %>" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="<%= workshop.summary %>" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://devconf.pl/images/people/<%= workshop.speaker_photo_tag %>.png" />
+    <meta property="fb:app_id" content="230234777452193" />
+<% end %>

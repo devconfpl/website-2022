@@ -1,0 +1,242 @@
+[
+    {
+        "id": "first-things-first",
+        "title": "First Things First",
+        "speaker_id": "nyaradzai-samushonga",
+        "slot": 111
+    },
+    {
+        "id": "microservices-from-the-trenches",
+        "title": "Microservices from the Trenches. When Buzzwords Don't Make Your Application Work",
+        "speaker_id": "dan-patrascu-baba",
+        "slot": 125
+    },
+    {
+        "id": "serverless-architecture-on-production",
+        "title": "Serverless Architecture on Production: Good, Bad and Ugly Parts",
+        "speaker_id": "serhat-can",
+        "slot": 113
+    },
+    {
+        "id": "code-the-future-now",
+        "title": "Code the Future, Now",
+        "speaker_id": "adam-ralph",
+        "slot": 215
+    },
+    {
+        "id": "domain-driven-design",
+        "title": "Domain Driven Design: The Good Parts",
+        "speaker_id": "jimmy-bogard",
+        "slot": 115
+    },
+    {
+        "id": "identifying-and-scoping-microservices",
+        "title": "Identifying and Scoping Microservices",
+        "speaker_id": "christian-horsdal",
+        "slot": 126
+    },
+    {
+        "id": "designing-a-system-for-chaos",
+        "title": "Designing a System for Chaos",
+        "speaker_id": "paul-stack",
+        "slot": 122
+    },
+    {
+        "id": "logging-instrumentation-dashboards",
+        "title": "Logging, Instrumentation, Dashboards and Alerts - for Developers",
+        "speaker_id": "henry-been",
+        "slot": 123
+    },
+    {
+        "id": "feature-toggles",
+        "title": "Feature Toggles: The Good, The Bad and The Ugly",
+        "speaker_id": "andy-davies",
+        "slot": 124
+    },
+    {
+        "id": "hololens-2",
+        "title": "The Future is Here, It's Just Not Evenly Distributed... Yet",
+        "speaker_id": "jesse-mcculloch",
+        "slot": 112
+    },
+    {
+        "id": "three-rewrites-one-startup",
+        "title": "Three Rewrites, One Startup - An Architect’s Journey",
+        "speaker_id": "spencer-schneidenbach",
+        "slot": 116
+    },
+    {   
+        "id": "the-art-of-code",
+        "title": "The Art of Code",
+        "speaker_id": "dylan-beattie",
+        "slot": 117
+    },
+    {
+        "id": "kaizen-driven-development",
+        "title": "Kaizen-Driven Development: Carve Your Own Path",
+        "speaker_id": "sebastian-gebski",
+        "slot": 132
+    },
+    {
+        "id": "privilege-as-a-technical-debt",
+        "title": "Privilege as a Technical Debt",
+        "speaker_id": "amr-abdelwahab",
+        "slot": 133
+    },
+    {
+        "id": "designing-accessible-apps",
+        "title": "Designing Accessible Apps",
+        "speaker_id": "dennie-declercq",
+        "slot": 144
+    },
+    {
+        "id": "quantun-computing",
+        "title": "Quantum Computing: the Important Stuff",
+        "speaker_id": "coleman-collins",
+        "slot": 135
+    },
+    {
+        "id": "security",
+        "title": "Security – Only Developers Can Make It Proactive",
+        "speaker_id": "beata-szturemska",
+        "slot": 136
+    },
+    {
+        "id": "talk-to-me-nicely",
+        "title": "Talk to Me Nicely - How to Communicate Your Ideas and Speed Up Your Career",
+        "speaker_id": "piotr-stawirej",
+        "slot": 244
+    },
+    {
+        "id": "when-human-life-depends-on-software",
+        "title": "When Human Life Depends on Software - Introduction to Safety-Critical Systems",
+        "speaker_id": "maciej-gajdzica",
+        "slot": 143
+    },
+    {
+        "id": "welcome-to-the-machine",
+        "title": "Welcome to the Machine",
+        "speaker_id": "hadi-hariri",
+        "slot": 211
+    },
+    {
+        "id": "from-monolithic-monster",
+        "title": "From Monolithic Monster to Majestic Microservice App",
+        "speaker_id": "callum-whyte",
+        "slot": 212
+    },
+    {
+        "id": "six-little-lines-of-fail",
+        "title": "Six Little Lines of Fail",
+        "speaker_id": "jimmy-bogard",
+        "slot": 213
+    },
+    {
+        "id": "azure-functions",
+        "title": "Azure Functions Beyond \"Out of the Box\" - a Guided Tour of Azure Functions Extensibility",
+        "speaker_id": "tomasz-peczek",
+        "slot": 214
+    },
+    {
+        "id": "running-a-real-world-system",
+        "title": "Running a Real World, Mission-Critical System on Azure",
+        "speaker_id": "loek-duys",
+        "slot": 114
+    },
+    {
+        "id": "designing-rest-api",
+        "title": "Designing and Implementing REST APIs For The Long Haul",
+        "speaker_id": "spencer-schneidenbach",
+        "slot": 216
+    },
+    {
+        "id": "net-core",
+        "title": "High-Performance Networking with .NET Core 3.0",
+        "speaker_id": "mark-rendle",
+        "slot": 134
+    },
+    {
+        "id": "futurology",
+        "title": "Futurology for Developers - The Next 30 Years in Tech",
+        "speaker_id": "mark-rendle",
+        "slot": 217
+    },
+    {
+        "id": "the-cost-of-code",
+        "title": "The Cost of Code",
+        "speaker_id": "dylan-beattie",
+        "slot": 222
+    },
+    {
+        "id": "ml-buzzwords",
+        "title": "ML Buzzwords Demystified",
+        "speaker_id": "natalia-an",
+        "slot": 223
+    },
+    {
+        "id": "machine-learning-and-net",
+        "title": "How to Use Machine Learning and .NET to Write Crushing Metal Riffs",
+        "speaker_id": "michal-lusiak",
+        "slot": 224
+    },
+    {
+        "id": "breaking-black-box-ai",
+        "title": "Breaking Black-Box AI",
+        "speaker_id": "evelina-gabasova",
+        "slot": 225
+    },
+    {
+        "id": "memory-management",
+        "title": "Manual Memory Management in .NET Framework",
+        "speaker_id": "adam-furmanek",
+        "slot": 226
+    },
+    {
+        "id": "mr-cloud-services",
+        "title": "Anchors are the Key to Unlocking the Door of Persistence",
+        "speaker_id": "jesse-mcculloch",
+        "slot": 232
+    },
+    {
+        "id": "mirror-mirror",
+        "title": "Mirror, Mirror on the Wall, What is the Vainest Metric of Them All?",
+        "speaker_id": "paul-stack",
+        "slot": 233
+    },
+    {
+        "id": "data-over-code",
+        "title": "Data over Code: a Short Hyperbole",
+        "speaker_id": "norbert-wojtowicz",
+        "slot": 234
+    },
+    {
+        "id": "ant-paths",
+        "title": "Ant Paths and Strindberg’s Elevator – Leadership and Value in an Age of Change",
+        "speaker_id": "johan-obrink",
+        "slot": 235
+    },
+    {
+        "id": "kotlin-anywhere",
+        "title": "Kotlin/Anywhere",
+        "speaker_id": "hadi-hariri",
+        "slot": 236
+    },
+    {
+        "id": "async-internals",
+        "title": "Async Internals in .NET",
+        "speaker_id": "adam-furmanek",
+        "slot": 242
+    },
+    {
+        "id": "impostor-syndrome",
+        "title": "Impostor Syndrome",
+        "speaker_id": "anita-przybyl",
+        "slot": 243
+    },
+    {
+        "id": "7-deadlier-sins-of-craftsmanship",
+        "title": "7 Deadlier Sins of Craftsmanship",
+        "speaker_id": "tomasz-dubikowski",
+        "slot": 142
+    }
+]

@@ -1,0 +1,54 @@
+<%
+  unless defined?(is_light)
+    is_light = false
+  end
+%>
+
+<header class="fixed-top <%= is_light ? "light" : "" %>"> 
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg <%= is_light ? "navbar-light" : "navbar-dark" %> pt-3 pb-3 pl-0 pr-0">
+            <a class="navbar-brand" href="/">
+                <% if is_light %>
+                    <img src="/images/logo-dark.png" alt="DevConf" srcset="/images/logo-dark@2x.png 2x, /images/logo-dark@3x.png 3x">
+                <% else %>
+                    <img src="/images/logo.png" alt="DevConf" srcset="/images/logo@2x.png 2x, /images/logo@3x.png 3x">
+                <% end %>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto mr-3">
+                    <li class="nav-item mr-2">
+                        <a class="nav-link" href="/#about">About</a>
+                    </li>
+                    <% if false %>
+                    <li class="nav-item mr-2">
+                        <a class="nav-link" href="/#speakers">Speakers</a>
+                    </li>
+                    <li class="nav-item mr-2">
+                        <a class="nav-link" href="/#schedule">Schedule</a>
+                    </li>
+                    <li class="nav-item mr-2">
+                        <a class="nav-link" href="/#workshops">Workshops</a>
+                    </li>
+                    <% end %>
+                    <li class="nav-item mr-2">
+                        <a class="nav-link" href="/#sponsors">Sponsors</a>
+                    </li>
+                    <li class="nav-item mr-2">
+                        <a class="nav-link" href="/#location">Location</a>
+                    </li>
+                    <li class="nav-item mr-3">
+                        <a class="nav-link" href="/scholarship">Scholarship</a>
+                    </li>
+                </ul>
+
+                <form class="form-inline">
+                    <a class="btn <%= is_light ? "btn-primary" : "btn-outline-primary" %> nav-btn" href="/#tickets" role="button">Get Tickets</a>
+                </form>
+            </div>
+        </nav>
+    </div>
+</header>

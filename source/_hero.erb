@@ -1,0 +1,36 @@
+<div class="jumbotron-fluid">
+    <div class="container-fluid">
+        <div class="main-display">
+            <div class="title">
+                <div class="main-display-title">DevConf</div>
+                <div class="main-display-title alternate"><%= data.general.year %></div>
+                <div class="subtitle">Conference for Professional Software Developers</div>
+            </div>            
+            <div class="important-info">
+                <div>
+                    <i class="fas fa-graduation-cap"></i>
+                    <%= data.general.workshops_date %> - Workshops
+                </div>
+                <div>
+                    <i class="fas fa-microphone"></i>
+                    <%= data.general.conference_date %> - Conference
+                </div>
+                <div>
+                    <i class="fas fa-map-marker-alt"></i>
+                    Kraków, Poland
+                </div>
+            </div>
+            <div class="cta row no-gutters">
+                <div class="col-sm-6 text-center">
+                    <a class="btn btn-primary nav-btn" href="/#tickets" role="button">Get Tickets</a>
+                </div>
+                <% if data.general.cfp_open %>
+                  <div class="col-sm-6 text-center">
+                      <a class="btn btn-primary" href="<%= data.general.cfp_link %>" role="button">Apply to Speak!</a>
+                  </div>
+                <% end %>
+            </div>
+            <%= partial "social_links" %>
+        </div>
+    </div>
+</div>

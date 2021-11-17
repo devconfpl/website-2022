@@ -1,0 +1,55 @@
+<%= partial(:header) %>
+
+<%= partial "hero" %>
+
+<%= partial "about" %>
+
+<% if false %>
+  <%= partial "counters" %>
+
+  <%= partial(:speakers) %>
+
+  <%= partial "workshops" %>
+
+  <%= partial "schedule" %>
+
+  <%= partial "tickets" %>
+
+<% end %>
+
+<%= partial "newsletter" %>
+
+<%= partial "previousEvents" %>
+
+<%= partial "sponsors" %>
+
+<% if false %>
+  <%= partial "community_partners" %>
+<% end %>
+
+<%= partial "scholarship_partners" %>
+
+<% if false %>
+  <%= partial "media_partners" %>
+<% end %>
+
+<%= partial "location" %>
+
+<%= partial "info" %>
+
+<%= partial "footer" %>
+
+<% content_for :metahead do %>
+  <meta name="description" content="DevConf <%= data.general.year %> Website">
+  <meta name="keywords" content="devconf, software, developers, conference">
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@devconfpl" />
+  <meta name="twitter:creator" content="@devconfpl" />
+  <meta prefix="og: http://ogp.me/ns#" property="og:url" content="https://devconf.pl" />
+  <meta prefix="og: http://ogp.me/ns#" property="og:type" content="website" />
+  <meta prefix="og: http://ogp.me/ns#" property="og:title" content="DevConf <%= data.general.year %>" />
+  <meta prefix="og: http://ogp.me/ns#" property="og:description" content="A technology agnostic software development conference with high-level inspirational talks, deep dives into certain subjects, live coding sessions and plenty of networking time." />
+  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://devconf.pl/images/social_media_header.png" />
+  <meta property="fb:app_id" content="230234777452193" />
+<% end %>

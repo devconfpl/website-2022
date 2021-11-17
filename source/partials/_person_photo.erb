@@ -1,0 +1,11 @@
+<%
+    unless defined?(card_img)
+        card_img = false
+    end
+%>
+
+<%= tag :img, 
+        :src => "/images/people/" + person.tag + '.png', 
+        :alt => person.name, 
+        :class => "person-headshot grayscale " + (card_img ? "card-img-top" : "") %>
+<div class="picture-overlay"></div>

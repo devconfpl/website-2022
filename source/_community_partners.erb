@@ -1,0 +1,25 @@
+<section id="community-partners">
+    <div class="container-fluid">
+        <div class="section-header text-center">
+            <h3>Community Partners</h3>
+            <p class="mb-1">
+                Communities <strong>love</strong>.
+            </p>
+        </div>
+
+        <div class="row justify-content-center flex-column">
+            <div class="community-partner-group">
+                <% data.community_partners.each do |p| %>
+                    <div class="community-partner <%= p.narrow ? 'narrow' : '' %>">
+                        <a href="<%= utm_link p.link %>">
+                            <%= tag :img, 
+                                :src => '/images/partners/' + p.id + '.png', 
+                                :alt => p.name 
+                            %>
+                        </a>
+                    </div>
+                <% end %>
+            </div>
+        </div>
+    </div>
+</section>

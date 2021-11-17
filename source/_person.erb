@@ -1,0 +1,15 @@
+<%
+    type = data.speakers.any?{ |s| s.tag == person.tag } ? "speakers" : "program-committee"
+%>
+
+<div class="card text-center">
+    <a href="/<%= type %>/<%= person.tag %>" class="stretched-link">
+        <%= partial "partials/person_photo", :locals => { :person => person, :card_img => true } %>
+    </a>
+    <div class="card-body">
+        <%= person.name %>
+    </div>
+    <div class="card-footer">
+        <%= partial "partials/person_socials", :locals => { :socials => person.social } %>
+    </div>
+</div>

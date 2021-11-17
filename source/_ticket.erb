@@ -1,0 +1,26 @@
+<%
+    current_month = current_time.month
+    active = ticket.first_month <= current_month && current_month <= ticket.last_month
+%>
+
+<div class="card text-center <%= active ? '' : 'inactive' %>">
+    <div class="card-header">
+        <h5 class="card-title"><%= ticket.name %></h5>
+        <h6 class="card-subtitle"><%= ticket.price %></h6>
+    </div>
+    <div class="card-body empty">
+    </div>
+    <div class="card-footer">
+        <% if active %>
+            <a href="<%= data.general.tickets_link %>" class="stretched-link">Buy Now</a>
+        <% else %>
+            <% if ticket.first_month > current_month %>
+                <%= ticket.month_available %>
+            <% end %>
+
+            <% if ticket.last_month < current_month %>
+                <%= 'unavailable' %>
+            <% end %>
+        <% end %>
+    </div>
+</div>

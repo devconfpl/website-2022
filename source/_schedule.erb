@@ -1,0 +1,56 @@
+<%
+    days = [*1..data.general.conf_days_count]
+    rooms = [*1..data.general.rooms_count]
+    slots = [*1..data.general.slots_count]
+
+    start_date = Date.parse(data.general.conf_start_date)
+%>
+
+<section id="schedule">
+    <div class="container-fluid">
+        <div class="section-header text-center">
+            <h3>Schedule</h3>
+        </div>
+        <div class="row no-gutters">
+            <ul class="nav nav-tabs nav-schedule nav-days" role="tablist">
+                <% days.each do |d| %>
+                    <% curr_day = start_date + d - 1 %>
+                    <li class="nav-item">
+                        <a class="<%=(d == 1 ? "active" : "") %>" href="#schedule-day-<%= d %>" data-toggle="tab" role="tab">
+                            <h3>Day <%= d %></h3>
+                            <span class="lnr lnr-calendar-full"></span>
+                            <h5><%= curr_day.strftime("%d %b %Y") %></h5>
+                        </a>
+                    </li>
+                <% end %>
+            </ul>
+            <div class="tab-content">
+                <% days.each do |d| %>
+                    <div id="schedule-day-<%= d %>" class="tab-pane fade <%= d == 1 ? 'show active' : '' %>" role="tabpanel">
+                        <ul class="nav nav-tabs nav-schedule nav-rooms">
+                            <% rooms.each do |r| %>
+                                <li class="nav-item">
+                                    <a class="<%=(r == 1 ? "active" : "") %>" href="#schedule-day-<%= d %>-room-<%= r %>" data-toggle="tab" role="tab">
+                                        Room <%= r %>
+                                    </a>
+                                </li>
+                            <% end %>
+                        </ul>
+
+                        <div class="tab-content tab-content-schedule">
+                            <% rooms.each do |r| %>
+                                <div id="schedule-day-<%= d %>-room-<%= r %>" class="tab-pane fade <%= r == 1 ? 'show active' : '' %>" role="tabpanel">
+                                    <div class="panel-group" id="schedule-day-<%= d %>-room-<%= r %>-timeline">
+                                        <% slots.each do |s| %>
+                                            <%= partial(:schedule_item, :locals => { :day => d, :room => r, :slot => s }) %>
+                                        <% end %>
+                                    </div>
+                                </div>
+                            <% end %>
+                        </div>
+                    </div>
+                <% end %>
+            </div>
+        </div>
+    </div>
+</section>
