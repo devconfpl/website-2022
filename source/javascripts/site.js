@@ -88,7 +88,7 @@ $(function() {
   var map;
   function initMap() {
     var mapOptions = {
-      center: {lat: 50.077, lng: 19.965},
+      center: {lat: 51.7578, lng: 19.4429},
       zoom: 13,
       disableDefaultUI: true,
       mapTypeId: google.maps.MapTypeId.ROADMAP
@@ -97,7 +97,7 @@ $(function() {
     map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
     var marker = new google.maps.Marker({
-      position: {lat: 50.0889, lng: 19.9849},
+      position: {lat: 51.7578, lng: 19.4429},
       icon: "/images/marker-46x46.png",
       map: map
     });
