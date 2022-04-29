@@ -1,11 +1,12 @@
 <section id="about">
     <div class="container-fluid">
         <div class="row">
-            <div class="col d-none d-lg-block">   
-            </div>
-            <div class="col">
+            <!--<div class="col d-none d-lg-block">   
+            </div>-->
+           
+            <div class="about-content" style="">
                 <h3>
-                    Meet the Community<br/> and <span class="thick-underline">Find Inspiration<span></span></span>
+                    Meet the Community<br/> and Find <span class="thick-underline">Inspiration<span></span></span>
                 </h3>
 
                 <p>
@@ -21,13 +22,37 @@
                     enough we're also eager to provide excellent networking opportunities. People 
                     and interactions are what we value the most. 
                 </p>
-
+<!--
                 <p>
                     <strong><em>
                         The whole event is divided in to parts: pre-conference workshops happening on 
                         <%= data.general.workshops_date %> and the conference itself on <%= data.general.conference_date %>.
+                    </em></strong>-->
+                </p>
+            </div>
+            
+        </div>
+    </div>
+</section>
+<section id="about-ext">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col about-ext-content">
+                <h3>
+                    Conference for professional software developers
+                </h3>
+                <p>
+                    <strong><em>
+                        The whole event is divided in to parts:<br/> 
+                        pre-conference workshops happening on <%= data.general.workshops_date %><br/>
+                        and the conference itself on <%= data.general.conference_date %>.
                     </em></strong>
                 </p>
+                <a class="btn btn-outline-primary" href="/#tickets" role="button">Get tickets</a>
+            </div>
+            <div class="col sweater">
+                <img class="sweater-box" src="images/sweater_box.png" alt="sweater up developers" />
+                <img class="sweater-item" src="images/sweater.png" alt="" />
             </div>
         </div>
     </div>
