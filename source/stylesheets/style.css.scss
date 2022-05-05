@@ -585,6 +585,19 @@ section {
 #about-ext {
     background-image: url("../images/yellow_box.svg");
     margin-top: 60px;
+    margin-bottom: 500px;
+
+    @media screen and (min-width: 576px) {
+        margin-bottom: 450px;
+    }
+
+    @media screen and (min-width: 992px) {
+        margin-bottom: 400px;
+    }
+
+    @media screen and (min-width: 1200px) {
+        margin-bottom: inherit;
+    }
 
     .container-fluid {
         height: 780px;
@@ -607,9 +620,16 @@ section {
         }
 
         .sweater {
-            margin-top: -40px;
+            margin-top: 40px;
             text-align: center;
             position: relative;
+            width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+
+            @media screen and (min-width: 1200px) {
+                margin-top: -40px;
+            }
 
             .sweater-box {
                 box-shadow: 0 2px 50px -20px rgba(1, 40, 101, 0.8);
@@ -617,8 +637,14 @@ section {
 
             .sweater-item {
                 position: absolute;
-                left: 62px;
+                left: 9px;
                 top: 81px;
+            }
+        }
+
+        .btn {
+            @media screen and (max-width: 575px) {
+                width: 100%;
             }
         }
     }
