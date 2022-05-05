@@ -127,9 +127,11 @@ header {
     }
 
     .container-fluid {
-        padding: 0;
-    }
-
+        @media screen and (min-width: 1280px) {
+            padding: 0;
+        }
+    }    
+        
     .navbar-brand {
         img {
             width: 187.5px;
@@ -243,7 +245,7 @@ button.btn-outline-primary, a.btn-outline-primary {
     width: 100%;
     height: 567px;//567px;
     backdrop-filter: blur(8px);
-    padding: 48px 48px 32px;
+    padding: 32px 32px 16px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -262,6 +264,7 @@ button.btn-outline-primary, a.btn-outline-primary {
 
     @media screen and (min-width: 576px) {
         top: 116px;
+        padding: 48px 48px 32px;
     }
 
     @media screen and (min-width: 992px) {
@@ -295,8 +298,8 @@ button.btn-outline-primary, a.btn-outline-primary {
     .subtitle {
         color: $white;
         font-weight: 300;
-        font-size: 26px;
-        margin-top: 30px;
+        font-size: 18px;
+        margin-top: 12px;
         letter-spacing: -0.65px;
         line-height: 34px;
 
@@ -305,6 +308,8 @@ button.btn-outline-primary, a.btn-outline-primary {
 
         @media screen and (min-width: 576px) {
             // margin: 0;
+            margin-top: 30px;
+            font-size: 26px;
         }
     }
 
@@ -313,9 +318,14 @@ button.btn-outline-primary, a.btn-outline-primary {
         font-size: 15px;
         font-weight: 900;
         letter-spacing: 0.5px;
+        display: flex;
+        border-bottom: 1px solid $dc-red;
+        border-top: 1px solid $dc-red;
+        flex-direction: column;
 
         @media screen and (min-width: 576px) {
             font-size: 17px;
+            flex-direction: row;
         }
 
         .fas {
@@ -325,9 +335,7 @@ button.btn-outline-primary, a.btn-outline-primary {
             margin-right: 5px;
         }
 
-        display: flex;
-        border-bottom: 1px solid $dc-red;
-        border-top: 1px solid $dc-red;
+        
 
         > div {
             line-height: 2;
@@ -340,6 +348,7 @@ button.btn-outline-primary, a.btn-outline-primary {
             display: flex;
             flex-direction: column;
             justify-content: center;
+            align-self: center;
 
             font-size: 16px;
             color: #181818;
@@ -347,11 +356,19 @@ button.btn-outline-primary, a.btn-outline-primary {
             flex: 1;
 
             padding-left: 45px;
+            padding-top: 10px;
+            padding-bottom: 10px;
             font-weight: 300;
             font-size: 14px;
 
+            width: 200px;
+
             > div:first-of-type {
                 font-weight: 600;
+            }
+
+            @media screen and (min-width: 576px) {
+                width: inherit;
             }
         }
 
@@ -390,11 +407,16 @@ button.btn-outline-primary, a.btn-outline-primary {
         font-weight: 600;
         box-shadow: 0 3px 7px 0px rgba(0, 0, 0, 0.12);
         padding: 15px 22px;
+        // width: 100%;
 
         &:hover, &:focus, &:checked,
         &:not(:disabled):not(.disabled):active {
             background-color: $dc-red;
             color: $white;
+        }
+
+        @media screen and (max-width: 575px) {
+            width: 100%;
         }
     }
 
