@@ -8,5 +8,12 @@ jobs:
                         - run: bundle exec middleman build --verbose
                         - run: bundle exec middleman s3_sync
                         - run: bundle exec middleman cdn
-
-
+workflows:
+  version: 2
+  build-deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only:
+                - master
