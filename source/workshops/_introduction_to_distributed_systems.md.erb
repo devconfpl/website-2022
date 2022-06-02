@@ -1,0 +1,73 @@
+A hands-on workshop with Dylan Beattie, covering HTTP, REST, GraphQL, gRPC, 
+RabbitMQ, and SignalR: what they do, why you would use them, and how they 
+all work with C# and .NET.
+
+Once upon a time, software was simple. You built a website, connected it to 
+a database, and you were done. Then customers started asking for APIs, mobile 
+apps, notification emails, realtime chat… Today, cloud hosting lets us build 
+“elastic” systems – websites that automatically scale up to handle demand; 
+message queues and publish/subscribe patterns to handle spikes in traffic and 
+workload without impacting your end users.
+
+If you’re just starting out with distributed systems design, the possibilities 
+can be overwhelming. APIs, message queueing, REST, GraphQL, gRPC… what should 
+you choose, how does it work, how do you get started?
+
+This workshop gives you a hands-on introduction to the most important messaging 
+patterns used in modern application development. Using C# and .NET, we’ll build 
+a series of small example apps and services, wire them together using these 
+patterns, and discuss how – and when – you’d apply the same patterns in your 
+own applications.
+
+**Course Structure and Contents:**
+
+*Introduction*
+
+* What are “distributed systems”?
+* Monoliths and microservices
+* Common integration patterns
+* Principles of distributed architecture
+
+*Connecting Components using HTTP*
+
+* HTTP architectural patterns – XMLRPC, REST, GraphQL
+* Designing HTTP APIs
+* HTTP frameworks: WebAPI, NancyFX, ServiceStack
+* Working with HTTP APIs: testing and tooling
+* Scaling HTTP APIs: caching strategies
+* Exercise: building an HTTP API client and server
+
+*Message queues and pub/sub*
+
+* Principles of message queues
+* Message queueing in .NET – Redis, MSMQ, EasyNetQ
+* Queueing strategies and error handling
+* Advanced architectural patterns: CQRS, event sourcing
+* Exercise: building a pub/sub system using .NET
+
+*Protocol Buffers and gRPC*
+
+* History of RPC on .NET – SOAP, DISCO, WSDL, WCF
+* Introduction to Protocol Buffers
+* Contract-first development
+* Advantages of gRPC
+* Exercise: high-performance architecture using gRPC
+
+*Connecting to the Web*
+
+* Integrating browsers with distributed systems
+* The “Backends for Frontends” pattern
+* Working with SignalR
+* Exercise: real-time browser notifications using SignalR
+
+**Who should attend?**
+
+This workshop is aimed at developers with some experience writing applications using C# and Microsoft .NET.
+
+**Pre-requisites:**
+
+Attendees will be writing and running .NET code during the workshop, 
+so will need a computer running Windows, macOS or Linux, and ideally 
+install the Microsoft .NET SDK from [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download).
+
+Exercises can be done in .NET Framework 4.6+ or .NET Core 2.0+
