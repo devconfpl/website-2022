@@ -1,8 +1,10 @@
-<%= partial(:header, :locals => { :is_light => true }) %>
+<%= partial(:header, :locals => { :is_light => false }) %>
 
 <%= partial "workshop_details" %>
 
+<% if false %>
 <%= partial "newsletter" %>
+<% end %>
 
 <%= partial "info" %>
 

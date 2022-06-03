@@ -813,7 +813,7 @@ section {
         }
 
         .speaker-photo {
-            background-color: $light-blue;
+            background-color: $dc-orange;
 
             div {
                 position: absolute;
@@ -863,7 +863,7 @@ section {
             }
 
             h5 {
-                color: $light-blue;
+                color: $dc-red;
             }
         }
 
@@ -1194,11 +1194,11 @@ section {
 
         &.special {
             .card-header {
-                background-color: $light-blue;
+                background-color: $dc-orange;
             }
 
             .stretched-link {
-                color: $light-blue;
+                color: $dc-red;
             }
         }
 
@@ -1687,7 +1687,7 @@ section {
 
 #workshop-details {
     .speaker-photo {
-        background-color: $light-blue;
+        background-color: $dc-orange;
     }
 
     .details-content {
@@ -1704,7 +1704,7 @@ section {
         }
 
         h5 {
-            color: $light-blue;
+            color: $dc-red;
         }
     }
 }

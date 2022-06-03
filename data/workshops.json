@@ -3,25 +3,25 @@
       {
         "speaker_tags": ["spencer-schneidenbach"],
         "speaker_photo_tag": "spencer-schneidenbach",
-        "title": "Building RESTful APIs with ASP.NET Core and C#",
-        "tag": "restful-apis-aspnet-core",
-        "description_template": "restful_apis_aspnet_core",
-        "summary": "This workshop is all about implementing a scalable, performant, testable, and robust API solution using ASP.NET Core and C#. We’ll start with the fundamentals of REST and REST API design. Then, we’ll dive into a series of hands-on exercises designed to get you up and running on building RESTful APIs using ASP.NET Core and C#."
+        "title": "Building Scalable and Maintainable APIs with ASP.NET Core",
+        "tag": "maintainable-apis-aspnet-core",
+        "description_template": "maintainable_apis_aspnet_core",
+        "summary": "This workshop is all about implementing a scalable, testable, and robust API solution using ASP.NET Core and C#. We’ll start with the fundamentals of API design, including design considerations for a multitude of use cases, no matter if you’re creating single-page applications, mobile apps, or simply exposing your data for integration."
       },
       {
-        "speaker_tags": ["jakub-gutkowski", "piotr-stapp"],
-        "speaker_photo_tag": "jakub-gutkowski-piotr-stapp",
-        "title": "Introduction to Kubernetes",
-        "tag": "introduction-to-kubernetes",
-        "description_template": "introduction_to_kubernetes",
+        "speaker_tags": ["dylan-beattie"],
+        "speaker_photo_tag": "dylan-beattie",
+        "title": "Introduction to Distributed Systems with C# and .NET",
+        "tag": "introduction-to-distributed-systems",
+        "description_template": "introduction_to_distributed_systems",
         "summary": "During the workshop you will learn why you should consider Kubernetes as your next tool in your pipeline. Then we will go through basic concepts of Kubernetes and problems that it solves. And we will finish day with advanced subjects like deployments and diagnostics."
       },
       {
         "speaker_tags": ["jimmy-bogard"],
         "speaker_photo_tag": "jimmy-bogard",
-        "title": "Practical Messaging with NServiceBus",
-        "tag": "practical-messaging-with-nservicebus",
-        "description_template": "messaging_with_nservicebus",
+        "title": "Domain-Driven Design: Theory and Practice",
+        "tag": "dddd",
+        "description_template": "ddd",
         "summary": "Go beyond the hype and build a solid foundation of theory and practice with this workshop on message-oriented architecture and development."
       }
     ]
