@@ -92,7 +92,7 @@ i, em {
     color: $dc-orange;
 }
 
-p {
+p, label {
     font-size: 14px;
     letter-spacing: -0.35px;
     color: $gray;
@@ -1290,6 +1290,54 @@ section {
 
 #newsletter {
     .container-fluid {
+        .newsletter-form {
+            background-color: $dc-orange;
+            padding: 50px;
+            display: flex;
+            flex-direction: column;
+
+            > * {
+                align-self: center;
+            }
+
+            input.newsletter-submit-button {
+                color: $dc-red;
+                border: none;
+                border-radius: 10px;
+                font-weight: 600;
+                box-shadow: 0 3px 7px 0px rgba(0, 0, 0, 0.12);
+                padding: 15px 22px;
+                background-color: $white;
+            
+                &:hover, &:focus, &:checked,
+                &:not(:disabled):not(.disabled):active {
+                    background-color: $dc-red;
+                    color: $white;
+                }
+            }
+
+            .newsletter-container {
+                width: 100%;
+
+                label {
+                    display: block;
+                    text-align: center;
+                }
+
+                input[type="email"] {
+                    border-radius: 10px;
+                    border: 1px;
+                    line-height: 3rem;
+                    width: 100%;
+                    text-align: center;
+                }
+
+                @media screen and (min-width: 768px) {
+                    width: 50%;
+                }
+            }
+        }
+
         .newsletter-description {
             h2 {
                 font-size: 32px;
