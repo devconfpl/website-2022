@@ -8,10 +8,10 @@
             <div class="media-partner-group">
                 <% data.media_partners.each do |p| %>
                     <div class="media-partner">
-                        <a href="<%= utm_link p.link %>">
+                        <a href="<%= utm_link p.link %>" rel="dofollow">
                             <%= tag :img, 
                                 :src => '/images/partners/' + p.id + '.png', 
-                                :alt => p.name 
+                                :alt => p.name
                             %>
                         </a>
                     </div>
