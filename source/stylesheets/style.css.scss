@@ -1663,12 +1663,16 @@ section {
         .media-partner,
         .scholarship-partner {
             padding: 10px;
-            min-width: 200px;
+            // min-width: 200px;
+            width: 250px;
             box-sizing: content-box;
             align-self: center;
+            text-align: center;
 
             img {
-                width: 200px;
+                // width: 200px;
+                max-width: 250px;
+                height: 30px;
             }
 
             &.narrow {
@@ -1687,7 +1691,8 @@ section {
 
         .community-partner,
         .scholarship-partner {
-            min-width: 150px;
+            // min-width: 150px;
+            width: 250px;
             text-align: center;
 
             &.narrow {
@@ -1695,7 +1700,7 @@ section {
             }
 
             img {
-                width: 150px;
+                max-width: 250px;
             };
 
             &.narrow {
@@ -1706,10 +1711,12 @@ section {
         }
 
         .media-partner {
-            min-width: 150px;
+            // min-width: 150px;
 
             img {
-                width: 150px;
+                // width: 150px;
+                max-width: 250px;
+                height: 30px;
             }
         }
     }

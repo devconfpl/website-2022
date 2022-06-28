@@ -4,5 +4,11 @@
         "name": "ABB",
         "link": "https://new.abb.com/pl",
         "tier": "platinum"
-    }
+    },
+    {
+      "id": "hitachi",
+      "name": "Hitachi Energy",
+      "link": "https://www.hitachienergy.com/about-us/country-and-regional-information/poland",
+      "tier": "gold"
+  }
 ]
