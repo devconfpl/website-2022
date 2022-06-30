@@ -1669,6 +1669,14 @@ section {
             align-self: center;
             text-align: center;
 
+            &.sponsor-platinum {
+              padding: 20px;
+
+              img {
+                height: 50px;
+              }
+            }
+
             img {
                 // width: 200px;
                 max-width: 250px;
