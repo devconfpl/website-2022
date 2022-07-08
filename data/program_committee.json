@@ -1,101 +1,101 @@
 [
-    {
-        "name": "Rafał Legiędź",
-        "surname": "Legiędź",
-        "company": "Solidbrain",
-        "social": {
-            "twitter": "rafek",
-            "linkedin": "rafallegiedz"
-        },
-        "tag": "rafal-legiedz",
-        "description": "<p>Rafał works as a software engineer for Solidbrain. Being in the industry since 2007 he develops his passion for the software at every possible moment. He believes that being pragmatic in our field is very helpful and proves that by switching technologies he uses whenever there is a need or an opportunity to learn new concepts. Started with .NET back-end solutions, he quickly became a web guy and then he got his head around different kind of mobile technologies and VR/AR. Also a Microsoft MVP in Windows Development.</p><p>As his passion evolved, he got obsessed with knowledge sharing and community activities. That resulted in co-founding a conference and a series of other actions like giving talks or conducting workshops.</p>"
-    },
-    {
-        "name": "Jakub Gutkowski",
-        "surname": "Gutkowski",
-        "company": "",
-        "social": {
-            "twitter": "gutek",
-            "linkedin": "jakubg"
-        },
-        "tag": "jakub-gutkowski",
-        "description": "<p>Dad, husband, developer, geek. Founder of devWarsztaty – free workshops, for anyone who is willing to learn and practice software craftsmanship. Creator of first polish .NET Blogs agregator – .NET Blogs PL. Loves to play with novelties, learn new languages and libraries, avid conference attender, passionate about meeting new people, always willing to help.</p><p>Microsoft MVP.</p><p>Truly believes, that what he does, changes the world and helps others.</p>"
-    },
-    {
-        "name": "Piotr Stapp",
-        "surname": "Stapp",
-        "company": "FinAi",
-        "social": {
-            "twitter": "ptrstpp950",
-            "linkedin": "piotrstapp"
-        },
-        "tag": "piotr-stapp",
-        "description": "<p>Don't Stapp me now ;)</p>"
-    },
-    {
-        "name": "Kamil Kubacki",
-        "surname": "Kubacki",
-        "company": "Appliscale ",
-        "social": {
-            "twitter": "kamilkubacki",
-            "linkedin": "kamilkubacki"
-        },
-        "tag": "kamil-kubacki",
-        "description": "<p>Software engineer for 7 years with experience in Java, Erlang and cloud computing (AWS). In addition to technical expertise, heavily broadens his knowledge in product building. Currently, Kamil is part of <a href='https://appliscale.io/'>Appliscale</a> where he focuses on development and technical leadership in AdTech solutions (Real-Time Bidding).</p>"
-    },
-    {
-        "name": "Ola Kunysz",
-        "surname": "Kunysz",
-        "company": "",
-        "social": {
-            "twitter": "OlaQnysz",
-            "linkedin": "akunysz"
-        },
-        "tag": "ola-kunysz",
-        "description": "<p>Ola Kunysz is a software engineer with 12 years of experience, going through all it's stages, from business analysis to backend programming. Recently in the role of full-stack developer in e-commerce project. Her biggest interest is solving real-life problems and writing code that matters. For 2 years she organised meetups and workshops of Geek Girls Carrots in Wrocław. She enjoys meeting people and working on interesting projects, so you can spot her on hackathons and conferences. When it’s time to relax, she’s offline [with dog(s), playing board games, in the mountains]*</p>"
-    },
-    {
-        "name": "Marcin Biegała",
-        "surname": "Biegała",
-        "company": "",
-        "social": {
-            "twitter": "biegal",
-            "linkedin": "marcinbiegala"
-        },
-        "tag": "marcin-biegala",
-        "description": "<p>Dev, motorcyclist, dreamer and coffee lover. Golang fan and aspiring speaker.</p><p>He is a passionate programmer, who over the years had pleasure to work in companies of all sizes.</p><p>After work, he tries to shape his thoughts into word on blog or help meetups and conferences.</p>"
-    },
-    {
-        "name": "Mathew McLoughlin",
-        "surname": "McLoughlin",
-        "company": "",
-        "social": {
-            "twitter": "mat_mcloughlin",
-            "linkedin": "matmcloughlin"
-        },
-        "tag": "mathew-mcloughlin",
-        "description": "<p></p>"
-    },
-    {
-        "name": "Michał Śliwoń",
-        "surname": "Śliwon",
-        "company": "",
-        "social": {
-            "twitter": "mihcall",
-            "linkedin": "michal-sliwon"
-        },
-        "tag": "michal-sliwon",
-        "description": "<p>Software developer, conference organiser and co-founder at DevConf and CEO and co-owner at Codeclusive.</p><p>Has a passion to software and people which is a perfect combination when organising a conference for software developers.</p><p>Really hopes you'll love DevConf for the knowledge, inspiration and fun.</p>"
-    },
-    {
-        "name": "Grzegorz Duda",
-        "surname": "Duda",
-        "company": "",
-        "social": {
-            "twitter": "grzegorzduda",
-            "linkedin": "grzegorzduda"
-        },
-        "tag": "grzegorz-duda",
-        "description": "<p></p>"
-    }
+    // {
+    //     "name": "Rafał Legiędź",
+    //     "surname": "Legiędź",
+    //     "company": "Solidbrain",
+    //     "social": {
+    //         "twitter": "rafek",
+    //         "linkedin": "rafallegiedz"
+    //     },
+    //     "tag": "rafal-legiedz",
+    //     "description": "<p>Rafał works as a software engineer for Solidbrain. Being in the industry since 2007 he develops his passion for the software at every possible moment. He believes that being pragmatic in our field is very helpful and proves that by switching technologies he uses whenever there is a need or an opportunity to learn new concepts. Started with .NET back-end solutions, he quickly became a web guy and then he got his head around different kind of mobile technologies and VR/AR. Also a Microsoft MVP in Windows Development.</p><p>As his passion evolved, he got obsessed with knowledge sharing and community activities. That resulted in co-founding a conference and a series of other actions like giving talks or conducting workshops.</p>"
+    // },
+    // {
+    //     "name": "Jakub Gutkowski",
+    //     "surname": "Gutkowski",
+    //     "company": "",
+    //     "social": {
+    //         "twitter": "gutek",
+    //         "linkedin": "jakubg"
+    //     },
+    //     "tag": "jakub-gutkowski",
+    //     "description": "<p>Dad, husband, developer, geek. Founder of devWarsztaty – free workshops, for anyone who is willing to learn and practice software craftsmanship. Creator of first polish .NET Blogs agregator – .NET Blogs PL. Loves to play with novelties, learn new languages and libraries, avid conference attender, passionate about meeting new people, always willing to help.</p><p>Microsoft MVP.</p><p>Truly believes, that what he does, changes the world and helps others.</p>"
+    // },
+    // {
+    //     "name": "Piotr Stapp",
+    //     "surname": "Stapp",
+    //     "company": "FinAi",
+    //     "social": {
+    //         "twitter": "ptrstpp950",
+    //         "linkedin": "piotrstapp"
+    //     },
+    //     "tag": "piotr-stapp",
+    //     "description": "<p>Don't Stapp me now ;)</p>"
+    // },
+    // {
+    //     "name": "Kamil Kubacki",
+    //     "surname": "Kubacki",
+    //     "company": "Appliscale ",
+    //     "social": {
+    //         "twitter": "kamilkubacki",
+    //         "linkedin": "kamilkubacki"
+    //     },
+    //     "tag": "kamil-kubacki",
+    //     "description": "<p>Software engineer for 7 years with experience in Java, Erlang and cloud computing (AWS). In addition to technical expertise, heavily broadens his knowledge in product building. Currently, Kamil is part of <a href='https://appliscale.io/'>Appliscale</a> where he focuses on development and technical leadership in AdTech solutions (Real-Time Bidding).</p>"
+    // },
+    // {
+    //     "name": "Ola Kunysz",
+    //     "surname": "Kunysz",
+    //     "company": "",
+    //     "social": {
+    //         "twitter": "OlaQnysz",
+    //         "linkedin": "akunysz"
+    //     },
+    //     "tag": "ola-kunysz",
+    //     "description": "<p>Ola Kunysz is a software engineer with 12 years of experience, going through all it's stages, from business analysis to backend programming. Recently in the role of full-stack developer in e-commerce project. Her biggest interest is solving real-life problems and writing code that matters. For 2 years she organised meetups and workshops of Geek Girls Carrots in Wrocław. She enjoys meeting people and working on interesting projects, so you can spot her on hackathons and conferences. When it’s time to relax, she’s offline [with dog(s), playing board games, in the mountains]*</p>"
+    // },
+    // {
+    //     "name": "Marcin Biegała",
+    //     "surname": "Biegała",
+    //     "company": "",
+    //     "social": {
+    //         "twitter": "biegal",
+    //         "linkedin": "marcinbiegala"
+    //     },
+    //     "tag": "marcin-biegala",
+    //     "description": "<p>Dev, motorcyclist, dreamer and coffee lover. Golang fan and aspiring speaker.</p><p>He is a passionate programmer, who over the years had pleasure to work in companies of all sizes.</p><p>After work, he tries to shape his thoughts into word on blog or help meetups and conferences.</p>"
+    // },
+    // {
+    //     "name": "Mathew McLoughlin",
+    //     "surname": "McLoughlin",
+    //     "company": "",
+    //     "social": {
+    //         "twitter": "mat_mcloughlin",
+    //         "linkedin": "matmcloughlin"
+    //     },
+    //     "tag": "mathew-mcloughlin",
+    //     "description": "<p></p>"
+    // },
+    // {
+    //     "name": "Michał Śliwoń",
+    //     "surname": "Śliwon",
+    //     "company": "",
+    //     "social": {
+    //         "twitter": "mihcall",
+    //         "linkedin": "michal-sliwon"
+    //     },
+    //     "tag": "michal-sliwon",
+    //     "description": "<p>Software developer, conference organiser and co-founder at DevConf and CEO and co-owner at Codeclusive.</p><p>Has a passion to software and people which is a perfect combination when organising a conference for software developers.</p><p>Really hopes you'll love DevConf for the knowledge, inspiration and fun.</p>"
+    // },
+    // {
+    //     "name": "Grzegorz Duda",
+    //     "surname": "Duda",
+    //     "company": "",
+    //     "social": {
+    //         "twitter": "grzegorzduda",
+    //         "linkedin": "grzegorzduda"
+    //     },
+    //     "tag": "grzegorz-duda",
+    //     "description": "<p></p>"
+    // }
 ]
