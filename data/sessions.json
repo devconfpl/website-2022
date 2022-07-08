@@ -24,9 +24,9 @@
         "slot": 215
     },
     {
-        "id": "domain-driven-design",
-        "title": "Domain Driven Design: The Good Parts",
-        "speaker_id": "jimmy-bogard",
+        "id": "",
+        "title": "",
+        "speaker_id": "",
         "slot": 115
     },
     {
@@ -36,9 +36,9 @@
         "slot": 126
     },
     {
-        "id": "designing-a-system-for-chaos",
-        "title": "Designing a System for Chaos",
-        "speaker_id": "paul-stack",
+        "id": "",
+        "title": "",
+        "speaker_id": "",
         "slot": 122
     },
     {
@@ -60,21 +60,21 @@
         "slot": 112
     },
     {
-        "id": "three-rewrites-one-startup",
-        "title": "Three Rewrites, One Startup - An Architect’s Journey",
-        "speaker_id": "spencer-schneidenbach",
+        "id": "",
+        "title": "",
+        "speaker_id": "",
         "slot": 116
     },
     {   
-        "id": "the-art-of-code",
-        "title": "The Art of Code",
-        "speaker_id": "dylan-beattie",
+        "id": "",
+        "title": "",
+        "speaker_id": "",
         "slot": 117
     },
     {
-        "id": "kaizen-driven-development",
-        "title": "Kaizen-Driven Development: Carve Your Own Path",
-        "speaker_id": "sebastian-gebski",
+        "id": "",
+        "title": "",
+        "speaker_id": "",
         "slot": 132
     },
     {
@@ -126,9 +126,9 @@
         "slot": 212
     },
     {
-        "id": "six-little-lines-of-fail",
-        "title": "Six Little Lines of Fail",
-        "speaker_id": "jimmy-bogard",
+        "id": "",
+        "title": "",
+        "speaker_id": "",
         "slot": 213
     },
     {
@@ -144,9 +144,9 @@
         "slot": 114
     },
     {
-        "id": "designing-rest-api",
-        "title": "Designing and Implementing REST APIs For The Long Haul",
-        "speaker_id": "spencer-schneidenbach",
+        "id": "",
+        "title": "",
+        "speaker_id": "",
         "slot": 216
     },
     {
@@ -162,9 +162,9 @@
         "slot": 217
     },
     {
-        "id": "the-cost-of-code",
-        "title": "The Cost of Code",
-        "speaker_id": "dylan-beattie",
+        "id": "",
+        "title": "",
+        "speaker_id": "",
         "slot": 222
     },
     {
@@ -174,9 +174,9 @@
         "slot": 223
     },
     {
-        "id": "machine-learning-and-net",
-        "title": "How to Use Machine Learning and .NET to Write Crushing Metal Riffs",
-        "speaker_id": "michal-lusiak",
+        "id": "",
+        "title": "",
+        "speaker_id": "",
         "slot": 224
     },
     {
@@ -198,9 +198,9 @@
         "slot": 232
     },
     {
-        "id": "mirror-mirror",
-        "title": "Mirror, Mirror on the Wall, What is the Vainest Metric of Them All?",
-        "speaker_id": "paul-stack",
+        "id": "",
+        "title": "",
+        "speaker_id": "",
         "slot": 233
     },
     {

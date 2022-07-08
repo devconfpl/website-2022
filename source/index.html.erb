@@ -4,17 +4,14 @@
 
 <%= partial "about" %>
 <% if false %>
-<%= partial "counters" %>
+  <%= partial "counters" %>
+<% end %>
 
+<%= partial(:speakers) %>
 
+<%= partial "workshops" %>
 
-  <%= partial(:speakers) %>
-
-  <% end %>
-
-  <%= partial "workshops" %>
-
-  <% if false %>
+<% if false %>
   <%= partial "schedule" %>
 
 <% end %>
@@ -27,7 +24,6 @@
 
 <%= partial "sponsors" %>
 <%= partial "community_partners" %>
-
 
 <% if false %>
   <%= partial "scholarship_partners" %>

@@ -725,13 +725,17 @@ section {
         justify-content: center;
     
         .card {
-            min-width: 180px;
-            max-width: 180px;
+            min-width: 220px;
+            max-width: 220px;
             margin-bottom: 65px;
 
             &:hover {
                 .person-headshot {
                     filter: none !important;
+                }
+
+                .picture-overlay {
+                  background-color: transparent;
                 }
             }
 
@@ -769,7 +773,7 @@ section {
                         }
 
                         a, i {
-                            color: $navy-blue;
+                            color: $dc-orange;
                         }                    
                     }
                 }  
@@ -1568,7 +1572,7 @@ section {
                         }
     
                         a, i {
-                            color: $navy-blue;
+                            color: $dc-orange;
                         }                    
                     }
                 }  
@@ -1774,7 +1778,7 @@ section {
 
 #person-details {
     .person-photo {
-        background-color: $navy-blue;   
+        background-color: $dc-orange;   
     }
 }
 
@@ -1822,7 +1826,7 @@ section {
         bottom: 0;
         left: 0;
         right: 0;
-        background-color: $navy-blue;
+        background-color: $dc-orange;
         opacity: 0.5;
         mix-blend-mode: lighten;    
     }

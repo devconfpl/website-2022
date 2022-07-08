@@ -1,36 +1,23 @@
 [
     {
-        "name": "Hadi Hariri",
-        "surname": "Hariri",
-        "company": "JetBrains",
+        "name": "Piotr Łój",
+        "surname": "Łój",
+        "company": "Virtual Dream Foundation",
         "social": {
-            "twitter": "hhariri",
-            "linkedin": "hadi-hariri-b0368a83"
+            "twitter": "VirtualDreamOrg",
+            "linkedin": "lojke"
         },
-        "tag": "hadi-hariri",
-        "description": "<p>Developer and creator of many things <a href='https://hadihariri.com/projects/'>OSS</a>, he has been programming in one way, shape or form since the age of 12. Author of various publications and courses, Hadi has been speaking at industry events for nearly two decades. Host to <a href='http://talkingkotlin.com/'>Talking Kotlin</a>, he works at <a href='http://www.jetbrains.com/'>JetBrains</a> leading the Developer Advocacy team, and spends as much time as he can writing code.</p>"
+        "tag": "piotr-loj"
     },
     {
         "name": "Dylan Beattie",
         "surname": "Beattie",
-        "company": "Skills Matter",
+        "company": "",
         "social": {
             "twitter": "dylanbeattie",
             "linkedin": "dylanbeattie"
         },
-        "tag": "dylan-beattie",
-        "description": "<p>Dylan Beattie is a software developer and technical speaker. He's been building web applications since the days of Windows NT 4; today he works on HTTP APIs, UX design, and distributed systems. Dylan lives and works in London and when he's not hacking code he plays guitar and writes songs.</p>"
-    },
-    {
-        "name": "Mark Rendle",
-        "surname": "Rendle",
-        "company": "Rendle Labs",
-        "social": {
-            "twitter": "markrendle",
-            "linkedin": "markrendle"
-        },
-        "tag": "mark-rendle",
-        "description": "<p>Mark has been a professional software developer for 30 years and a .NET developer for nearly 20 of those. His latest mission is to help .NET teams all over the world move to .NET Core, and adopt modern software development practices, technologies and architectures. To achieve this, Mark creates training materials and online courses, delivers workshops, consults with firms large and small, and develops clever tools to help with the migration process. In his spare time, he makes games with his daughter and son using Unity.</p>"
+        "tag": "dylan-beattie"
     },
     {
         "name": "Spencer Schneidenbach",
@@ -40,261 +27,7 @@
             "twitter": "schneidenbach",
             "linkedin": "sschneidenbach"
         },
-        "tag": "spencer-schneidenbach",
-        "description": "<p>Spencer Schneidenbach is a API and integration expert, Microsoft MVP, speaker, consultant, and blogger in the St. Louis, Missouri area.  </p>"
-    },
-    {
-        "name": "Adam Furmanek",
-        "surname": "Furmanek",
-        "company": "Amazon",
-        "social": {
-            "twitter": "furmanekadam",
-            "linkedin": "adam-furmanek"
-        },
-        "tag": "adam-furmanek",
-        "description": "<p>I am Adam Furmanek and I have been working as a .NET developer for 5 years. Right now I am at Amazon working with Scala, Spark and Machine Learning. I am always interested in digging deeper, exploring machine code and going through implementation details to better understand internals of the technologies I use every day. That’s why I like debugging, decompiling and disassembling the code to understand memory models, concurrency problems and other details hidden deeply inside. In my free time I play ping-pong, watch Woody Allen’s movies and blog stuff at <a href='http://blog.adamfurmanek.pl'>http://blog.adamfurmanek.pl</a>.</p>"
-    },
-    {
-        "name": "Dennie Declercq",
-        "surname": "Declercq",
-        "company": "DDSoft",
-        "social": {
-            "twitter": "DennieDeclercq",
-            "linkedin": "dennie-declercq-822086a2"
-        },
-        "tag": "dennie-declercq",
-        "description": "<p>Dennie is Microsoft MVP Developer Technologies and has experience in accessibility in with Microsoft technologies. In daily life Dennie is president and developer at DDSoft, a nonprofit in function of People With Disabilities. Dennie invented technical solutions and systems to help people with disabilities to participate in their daily life. Thanks to his autism he's the right man at the right spot to contribute as a volunteer in function of people with disabilities.</p>"
-    },
-    {
-        "name": "Tomasz Pęczek",
-        "surname": "Pęczek",
-        "company": "DDSoft",
-        "social": {
-            "twitter": "tpeczek",
-            "linkedin": "tpeczek"
-        },
-        "tag": "tomasz-peczek",
-        "description": "<p>An experienced software developer and architect. For more than 10 years he has been creating software for health care, banking or e-learning industries. Currently, he is building web applications and microservices using ASP.NET Core and Azure.</p><p>He is constantly sharing his knowledge through his <a href='https://www.tpeczek.com/'>blog</a> or <a href='https://sessionize.com/tpeczek/'>presentations at conferences</a> and user groups. He is also a founder and maintainer of several <a href='https://github.com/tpeczek'>open source projects</a>.</p><p>Microsoft MVP in Developer Technologies category.</p>"
-    },
-    {
-        "name": "Loek Duys",
-        "surname": "Duys",
-        "company": "Xpirit",
-        "social": {
-            "twitter": "LDuys",
-            "linkedin": "loekd"
-        },
-        "tag": "loek-duys",
-        "description": "<p>Loek is a Cloud Consultant at Xpirit and a Microsoft Azure MVP, working as a Cloud Architect. He helps companies modernize their software and development processes, from strategy to implementation. He helps teams by inspiring, training, coaching, assessments, architecture and software development.</p><p>As an active member of open source projects, forums and as international speaker, he loves to exchange knowledge with other community members.</p>"
-    },
-    {
-        "name": "Adam Ralph",
-        "surname": "Ralph",
-        "company": "Particular Software",
-        "social": {
-            "twitter": "adamralph",
-            "linkedin": "adamralph"
-        },
-        "tag": "adam-ralph",
-        "description": "<p>Adam is a distributed systems enthusiast and digital nomad. He works for <a href='https://particular.net/'>Particular Software</a>, the makers of <a href='https://particular.net/nservicebus'>NServiceBus</a>. Adam has designed and maintained complex software systems at several companies in the finance industry. He’s seen both the good and the bad that can come from applying techniques like SOA, DDD, and microservices. He also likes to <a href='https://particular.net/events'>speak</a>, <a href='https://github.com/adamralph'>maintain open source projects</a>, and fix white space rule violations.</p>"
-    },
-    {
-        "name": "Henry Been",
-        "surname": "Been",
-        "company": "",
-        "social": {
-            "twitter": "henry_been",
-            "linkedin": "henrybeen"
-        },
-        "tag": "henry-been",
-        "description": "<p>Henry Been is an independent architect and developer from The Netherlands. He enjoys working with software development teams to create and deliver great software. His interests include the Azure cloud, Agile, DevOps, software architecture and the design and implementation of testable and maintainable software. Next to his work, he is also one of the Microsoft ALM | DevOps Rangers and has been awarded the Microsoft MVP award.</p><p><Henry tries to share what he's learned with the community at conferences and meet-ups or through his blog <a href='https://www.henrybeen.nl/'>henrybeen.nl</a>. You can find him on <a href='https://twitter.com/henry_been'>Twitter</a> or <a href='https://www.linkedin.com/in/henrybeen/'>LinkedIn</a>.</p>"
-    },
-    {
-        "name": "Serhat Can",
-        "surname": "Can",
-        "company": "Atlassian",
-        "social": {
-            "twitter": "srhtcn",
-            "linkedin": "serhatcan"
-        },
-        "tag": "serhat-can",
-        "description": "<p>Serhat Can is a versatile engineer who has built and operated products as part of the Opsgenie team. He currently works at Atlassian, focusing on Opsgenie. His main interest as the Technical Evangelist is helping teams build better on-call and incident response practices.</p><p>He has a special interest in Serverless product family of AWS and shares his production experiences with others as an international speaker. He is an AWS Community Hero. As a writer, he has published many articles and ebooks on websites, you already read.</p><p>Serhat contributes to the community as an event organizer as well as a speaker. He is a Devopsdays core team member where he helps local DevOps communities organize events in 70+ cities. He also hosts many local events in İstanbul and Ankara such as Serverless Turkey meetup, DevOps Turkey meetup, and Devopsdays İstanbul.</p>"
-    },
-    {
-        "name": "Callum Whyte",
-        "surname": "Whyte",
-        "company": "",
-        "social": {
-            "twitter": "callumbwhyte",
-            "linkedin": ""
-        },
-        "tag": "callum-whyte",
-        "description": "<p>Callum is a lead developer who’s expertise lies in building robust scalable microservice and serverless systems on the .NET stack, as well as Xamarin mobile apps and websites with the Umbraco CMS.</p><p>Away from his desk you can find him organising community events; from local meetups and hackathons to the annual 300 person Umbraco UK Festival conference. He’s an active contributor to open source projects, as well as co-host of a weekly YouTube series “UmbraCoffee” and a regular speaker at events all over the world!</p>"
-    },
-    {
-        "name": "Paul Stack",
-        "surname": "Stack",
-        "company": "Pulumi",
-        "social": {
-            "twitter": "Stack72",
-            "linkedin": "paul-stack-07691a1b"
-        },
-        "tag": "paul-stack",
-        "description": "<p>Paul Stack is an infrastructure coder and has spoken at various events throughout the world about his passion for continuous integration, continuous delivery and good operational procedures and why they should be part of what developers and system administrators do on a day to day basis.</p><p>He believes that reliably delivering software is more important as its development. Paul’s passions are the DevOps and Continuous Delivery movements and how they help the entire business and its customers.</p>"
-    },
-    {
-        "name": "Jesse McCulloch",
-        "surname": "McCulloch",
-        "company": "Microsoft",
-        "social": {
-            "twitter": "jbmcculloch",
-            "linkedin": "jessebmcculloch"
-        },
-        "tag": "jesse-mcculloch",
-        "description": "<p>Jesse McCulloch is a Program Manager on the mixed reality developer ecosystem team at Microsoft. Starting as a mixed reality developer in 2016, he built up a strong community around HoloLens and Immersive Headsets, and then joined Microsoft in 2018.  This gives him a very unique perspective and strong desire to advocate strongly for the developers who are supporting the platform.  He is often found hanging out in the HoloDevelopers Slack group, and on Twitter trying to keep up with everything going on in this rapidly growing space.</p>"
-    },
-    {
-        "name": "Sebastian Gębski",
-        "surname": "Gębski",
-        "company": "",
-        "social": {
-            "twitter": "liveweird",
-            "linkedin": "sebastian-gebski-2687bb"
-        },
-        "tag": "sebastian-gebski",
-        "description": "<p>My name’s Sebastian Gębski. I think of myself as an Agilista & practitioner of Lean (following the Kaizen path); hardened in fire of numerous software product delivery endeavors (since 2001), for both multi-national enterprises and ambitious start-ups as well; polyglot architect, not afraid of putting his own hands on code; zealot of Domain Driven Design. My job is to make things happen where others have failed, using common sense (that comes first), people (as this is not an individual sport) and technology (that usually is inevitable).</p><p>In the meantime, I share my standpoints on my blogs (https://no-kill-switch.ghost.io & https://anchor.fm/no-kill-switch) and maniacally read books (seriously!). The code I write these days is usually in Elixir (ask me about it!) or (less frequently) .NET. I belong to the Church of Emacs, I am allergic to Scrum disease & when I do stuff - it has to be meaningful, I don’t know how to do things half-heartedly.</p>"
-    },
-    {
-        "name": "Johan Öbrink",
-        "surname": "Obrink",
-        "company": "Iteam",
-        "social": {
-            "twitter": "JohanObrink",
-            "linkedin": "johanobrink"
-        },
-        "tag": "johan-obrink",
-        "description": "<p>Johan Öbrink is a Digital Strategist at Iteam. He started programming on his VIC 20 in 1982 and has since had disparate career working in politics, as a debater, translating books, programming and advising companies on embracing digital technologies. He is an enthusiastic proponent of Test Driven Development, Continuous Delivery and all things automated and a sworn enemy of estimates and all other kinds of waste. When not teaching, coding or speaking at conferences, he builds (failed) drones, digs incessantly at his allotment and has weird dreams about asymmetric key cryptography.</p>"
-    },
-    {
-        "name": "Jakub Gutkowski",
-        "surname": "Gutkowski",
-        "company": "",
-        "social": {
-            "twitter": "gutek",
-            "linkedin": "jakubg"
-        },
-        "tag": "jakub-gutkowski",
-        "description": "<p>Dad, husband, developer, geek. Founder of devWarsztaty – free workshops, for anyone who is willing to learn and practice software craftsmanship. Creator of first polish .NET Blogs agregator – .NET Blogs PL. Loves to play with novelties, learn new languages and libraries, avid conference attender, passionate about meeting new people, always willing to help.</p><p>Microsoft MVP.</p><p>Truly believes, that what he does, changes the world and helps others.</p>"
-    },
-    {
-        "name": "Piotr Stapp",
-        "surname": "Stapp",
-        "company": "FinAi",
-        "social": {
-            "twitter": "ptrstpp950",
-            "linkedin": "piotrstapp"
-        },
-        "tag": "piotr-stapp",
-        "description": "<p>Don't Stapp me now ;)</p>"
-    },
-    {
-        "name": "Michał Łusiak",
-        "surname": "Lusiak",
-        "company": "tretton37",
-        "social": {
-            "twitter": "mlusiak",
-            "linkedin": "michal-lusiak"
-        },
-        "tag": "michal-lusiak",
-        "description": "<p>Michał is software developer from Poland, currently living in Sweden. On the daily job, he works mostly with backends for web and mobile applications. He has worked with many programming stacks but currently focuses mostly on .NET. Big fan of functional languages. Recently interested in machine learning and data science. Aviation geek, skier and wheels of fury.</p>"
-    },
-    {
-        "name": "Nyaradzai Samushonga",
-        "surname": "Samushonga",
-        "company": "FoldLeft",
-        "social": {
-            "twitter": "nyarisam",
-            "linkedin": "nyari-samushonga-6965523"
-        },
-        "tag": "nyaradzai-samushonga",
-        "description": "<p>Nyari is a Founder and Director of FoldLeft, a digital consultancy that uses hypothesis driven models to design and deliver impactful software solutions in enterprises. Her expertise lies in bridging the divide between business executives and tech innovators to maximise the value of software. She is also the Managing Director of WeThinkCode_ a tuition free education institute that is teaching Africa’s youth to solve problems using code. She lives in Johannesburg, South Africa.</p>"
-    },
-    {
-        "name": "Evelina Gabasova",
-        "surname": "Gabasova",
-        "company": "The Alan Turing Institute",
-        "social": {
-            "twitter": "evelgab",
-            "linkedin": "egabasova"
-        },
-        "tag": "evelina-gabasova",
-        "description": "<p>Evelina is a machine learning and data science researcher. She works as Principal Research Data Scientist at The Alan Turing Institute, the UK's national institute for data science and artificial intelligence. She is a member of the research engineering team where she is connecting academic research with real-world applications. Her passion is to make data science understandable and accessible to everyone. When not wrangling data or training machine learning models, she is an active member of the F# community, Microsoft MVP and a technical speaker.</p>"
-    },
-    {
-        "name": "Dan Patrascu-Baba",
-        "surname": "Patrascu-Baba",
-        "company": "",
-        "social": {
-            "twitter": "danpdc",
-            "linkedin": "dan-patrascu-baba-08b78523"
-        },
-        "tag": "dan-patrascu-baba",
-        "description": "<p>As a former Technical Consultant at Microsoft, I helped hundreds of Microsoft partners plan, design, architect and deploy cloud and hybrid infrastructures and software solutions. I delivered hundreds of on site trainings to partners and talked at different conferences. As a founder of @Codewrinkles I try to do my best helping people to learn coding. I am very active trying to contribute to the Blazor community and try to keep up to date with everything around .Net Core, Microsoft Azure (mostly PaaS) and Angular.</p>"
-    },
-    {
-        "name": "Amr Abdelwahab",
-        "surname": "Abdelwahab",
-        "company": "",
-        "social": {
-            "twitter": "amrabdelwahab",
-            "linkedin": "amr-abdelwahab"
-        },
-        "tag": "amr-abdelwahab",
-        "description": "<p>An African Egyptian native who crossed continents to work with his passion in digital environments. Amr’s interests span technology, tech-communities, politics and politics in tech, all enriched through various software engineering roles in Egypt, Hungary and Germany.</p>"
-    },
-    {
-        "name": "Norbert Wójtowicz",
-        "surname": "Wójtowicz",
-        "company": "",
-        "social": {
-            "twitter": "pithyless",
-            "linkedin": "norbertwojtowicz"
-        },
-        "tag": "norbert-wojtowicz",
-        "description": "<p>Norbert Wójtowicz is a recovering empty-stack developer, whose magic 8-ball predicts that Clojure(Script) will be in your future toolbox. You can find his code and ramblings in various corners of the internet, under the felicitous handle <a href='https://twitter.com/pithyless'>@pithyless</a>.</p>"
-    },
-    {
-        "name": "Coleman Collins",
-        "surname": "Collins",
-        "company": "IonQ",
-        "social": {
-            "twitter": "COLEMANICEWATER",
-            "linkedin": "colemancollins"
-        },
-        "tag": "coleman-collins",
-        "description": "<p>Coleman is a product designer at IonQ, one of the world’s leading quantum computing hardware companies, based in College Park MD. One major aspect of his role is to translate this wild idea into metaphors and explanations suitable for folks who aren’t necessarily PhD physicists or discrete mathematicians. He’d like to do that for you.</p>"
-    },
-    {
-        "name": "Andy Davies",
-        "surname": "Davies",
-        "company": "Reaktor",
-        "social": {
-            "twitter": "pondidum",
-            "linkedin": ""
-        },
-        "tag": "andy-davies",
-        "description": "<p>Andy is a software developer working at Reaktor in Finland.</p><p>He likes talking about Strong Typing, EventSourcing, Continuous Delivery, Architecture, Immutable Infrastructure, and Security. He particularly enjoys making other developers lives easier and automates pretty much anything he touches. He hates complexity, especially unnecessary complexity.</p><p>He blogs at <a href='https://andydote.co.uk'>https://andydote.co.uk</a>, and spends most of his free time in the gym, reading, or drinking coffee, sometimes at the same time.</p>"
-    },
-    {
-        "name": "Christian Horsdal",
-        "surname": "Horsdal",
-        "company": "",
-        "social": {
-            "twitter": "chr_horsdal",
-            "linkedin": "christianhorsdal"
-        },
-        "tag": "christian-horsdal",
-        "description": "<p>Christian Horsdal is an independent consultant with 20 years of experience building many kinds of systems from large scale microservice systems to tiny embedded systems and lots of stuff in between. He is a .NET expert, author of the books “Microservices in .NET Core” and “Instant Nancy Web Development”, trainer, and an occasional open source contributor.</p>"
+        "tag": "spencer-schneidenbach"
     },
     {
         "name": "Jimmy Bogard",
@@ -304,73 +37,36 @@
             "twitter": "jbogard",
             "linkedin": "jimmybogard"
         },
-        "tag": "jimmy-bogard",
-        "description": "<p>Jimmy is a member of the ASPInsiders group, the C# Insiders group, and received the “Microsoft Most Valuable Professional” (MVP) award for ASP.NET in 2009-2018. Jimmy is also the creator and maintainer of the popular OSS library AutoMapper.</p>"
+        "tag": "jimmy-bogard"
     },
     {
-        "name": "Natalia An",
-        "surname": "An",
-        "company": "Microsoft",
+        "name": "René Schulte",
+        "surname": "Schulte",
+        "company": "Valorem Reply",
         "social": {
-            "twitter": "illumikko",
-            "linkedin": "natalyan"
+            "twitter": "rschu",
+            "linkedin": "reneschulte"
         },
-        "tag": "natalia-an",
-        "description": "<p>Natalia has been in IT for almost two decades - as a developer, architect, project manager, devops, working in-house and as a consultant. Now she is working with Data Science in Microsoft Development Center Norway.</p><p>She is also a founder and a driving force behind Oslo Maskinlæring meetup group.</p>"
+        "tag": "rene-schulte"
     },
     {
-        "name": "Beata Szturemska",
-        "surname": "Szturemska",
-        "company": "Spartez",
+        "name": "Rachel Appel",
+        "surname": "Appel",
+        "company": "JetBrains",
         "social": {
-            "twitter": "BeataSzturemska",
-            "linkedin": "beataszturemska"
+            "twitter": "rachelappel",
+            "linkedin": "rachelappel"
         },
-        "tag": "beata-szturemska",
-        "description": "<p>A software engineer at Spartez, who attempts to make Jira better every day. Not a blind fanatic of any particular technology or programming language. She loves facing challenges, because it gives her an opportunity to make mistakes and learn something new daily. Fluent in Java, Python's pal. Queen of the Mountains and Jenkins pipelines. Speaker at conferences. Strongly involved in promoting science in children and youth. Her love for cycling exceeds 7000 km a year.</p>"
+        "tag": "rachel-appel"
     },
     {
-        "name": "Piotr Stawirej",
-        "surname": "Stawirej",
-        "company": "TomTom",
+        "name": "Sven Peters",
+        "surname": "Peters",
+        "company": "Manfred",
         "social": {
-            "twitter": "p_stawirej",
-            "linkedin": "piotr-stawirej"
+            "twitter": "svenpet",
+            "linkedin": "svenpeters73"
         },
-        "tag": "piotr-stawirej",
-        "description": "<p>Piotr Stawirej is clean code fanatic, BDD obsessed and agile methodology adherent. Passionate about professional attitude in every aspect of work. With over 11 years of experience in Tele Atlas and TomTom, leading map making industries, with large back-end and transactional systems. He cherishes clean design regardless of used language or technology and is strongly against cargo cult approach.</p><p>See also <a href='https://piotrstawirej.bitbucket.io/'>https://piotrstawirej.bitbucket.io/</a>.</p>"
-    },
-    {
-        "name": "Maciej Gajdzica",
-        "surname": "Gajdzica",
-        "company": "Solwit",
-        "social": {
-            "twitter": "MaciekGajdzica",
-            "linkedin": "maciej-gajdzica-156370a8"
-        },
-        "tag": "maciej-gajdzica",
-        "description": "<p>I am embedded systems developer working in Solwit and specializing in safety-critical systems. During the last seven years I worked on various projects ranging from railway traffic control, automotive and medical devices to IoT and smart buildings. I am interested in adapting and spreading good practices among embedded developers who often doesn't follow newest trends. In spare time I write on my blog <a href='https://ucgosu.pl'>https://ucgosu.pl</a>.</p>"
-    },
-    {
-        "name": "Anita Przybył",
-        "surname": "Przybył",
-        "company": "SOFT-SKILLS Anita Przybył",
-        "social": {
-            "twitter": "Anita_Przybyl",
-            "linkedin": "anita-przybyl"
-        },
-        "tag": "anita-przybyl",
-        "description": "<p>Softs skills trainer, coach, psychologist. Used to be responsible for development of employees in big international corporation for several years. Currently a freelancer. Specializes in soft skills trainings, including: communication, team management, team building, assertiveness, conflict resolution, emotional intelligence, etc. Anita believes that being a qualified specialist is not enough, and highly developed social competences are an indispensable element of success of people and entire organizations.</p>"
-    },
-    {
-        "name": "Tomasz Dubikowski",
-        "surname": "Dubikowski",
-        "company": "",
-        "social": {
-            "twitter": "tdubikowski",
-            "linkedin": "tomasz-dubikowski"
-        },
-        "tag": "tomasz-dubikowski",
-        "description": "<p>Tomek is a Software Development Manager and runs his own training company. He has 7 years experience working as a Software Engineer, Scrum Master and Agile Trainer. As an engineer, he is passionate about craftsmanship, propagating clean code, automated tests, behaviour driven development and domain driven design. As a leader, he helps to build an organisational culture based upon autonomy, collaboration and trust so that developers are equipped with both the hard and soft skills necessary to build truly awesome products. Tomek loves to change the reality around him. He his highly pragmatic, challenges orthodoxy at all levels and believes that there is always room for improvement. He is always eager to discuss and share his ideas.</p>"
+        "tag": "sven-peters"
     }
 ]

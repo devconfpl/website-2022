@@ -2,7 +2,7 @@
     type = data.speakers.any?{ |s| s.tag == person.tag } ? "speakers" : "program-committee"
 %>
 
-<%= partial(:header, :locals => { :is_light => true }) %>
+<%= partial(:header, :locals => { :is_light => false }) %>
 
 <%= partial "person_details" %>
 

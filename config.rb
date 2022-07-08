@@ -28,7 +28,7 @@ page '/*.txt', layout: false
 # )
 
 data.speakers.each do |s|
-  proxy "/speakers/#{s.tag}/index.html", "/person_template.html", :locals => { :person => s }, :ignore => true
+  proxy "/speakers/#{s.tag}/index.html", "/person_template.html", :locals => { :person => s, :bio => @app.data.bios[s.tag] }, :ignore => true
 end
 
 data.program_committee.each do |pc|
@@ -62,6 +62,11 @@ helpers do
 
   def css_link name, ver 
     '<link href="/stylesheets/' + name + '.css?v=' + ver + '" rel="stylesheet">'
+  end
+
+  def markdown(text=nil)
+    text ||= yield
+    return Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, tables: true).render(text)
   end
 end
 

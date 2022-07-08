@@ -11,3 +11,5 @@ gem 'middleman-s3_sync'
 # AWS Cloudfront cache invalidation
 gem "middleman-cdn"
 
+
+gem "redcarpet", "~> 3.5"
