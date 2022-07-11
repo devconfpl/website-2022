@@ -1,7 +1,7 @@
 [
     {
         "name": "Piotr Łój",
-        "surname": "Łój",
+        "surname": "Loj",
         "company": "Virtual Dream Foundation",
         "social": {
             "twitter": "VirtualDreamOrg",
@@ -68,5 +68,135 @@
             "linkedin": "svenpeters73"
         },
         "tag": "sven-peters"
+    },
+    {
+        "name": "Konstantin Bifert",
+        "surname": "Bifert",
+        "company": "",
+        "social": {
+            "twitter": "kissu_io",
+            "linkedin": "kissu"
+        },
+        "tag": "konstantin-bifert"
+    },
+    {
+        "name": "Andreas Erben",
+        "surname": "Erben",
+        "company": "daenet",
+        "social": {
+            "twitter": "andreaserben",
+            "linkedin": "andreaserben"
+        },
+        "tag": "andreas-erben"
+    },
+    {
+        "name": "Dale Lane",
+        "surname": "Lane",
+        "company": "IBM",
+        "social": {
+            "twitter": "dalelane",
+            "linkedin": "dalelane"
+        },
+        "tag": "dale-lane"
+    },
+    {
+        "name": "Garance Vallat",
+        "surname": "Vallat",
+        "company": "FactorialHR",
+        "social": {
+            "twitter": "GaranceVallat",
+            "linkedin": "garance-flore-vallat"
+        },
+        "tag": "garance-vallat"
+    },
+    {
+        "name": "Michał Łusiak",
+        "surname": "Lusiak",
+        "company": "tretton37",
+        "social": {
+            "twitter": "mlusiak",
+            "linkedin": "michal-lusiak"
+        },
+        "tag": "michal-lusiak"
+    },
+    {
+        "name": "Timothy Mamo",
+        "surname": "Mamo",
+        "company": "Container Solutions",
+        "social": {
+            "twitter": "timothy_mamo",
+            "linkedin": "timothymamo"
+        },
+        "tag": "timothy-mamo"
+    },
+    {
+        "name": "Michele Riva",
+        "surname": "Riva",
+        "company": "NearForm",
+        "social": {
+            "twitter": "MicheleRivaCode",
+            "linkedin": "MicheleRiva95"
+        },
+        "tag": "michele-riva"
+    },
+    {
+        "name": "Sebastian Gębski",
+        "surname": "Gębski",
+        "company": "Amazon Web Services",
+        "social": {
+            "twitter": "liveweird",
+            "linkedin": "sebastian-gebski"
+        },
+        "tag": "sebastian-gebski"
+    },
+    {
+        "name": "Angelo Agatino Nicolosi",
+        "surname": "Nicolosi",
+        "company": "YanchWare",
+        "social": {
+            "twitter": "",
+            "linkedin": "anicolosi"
+        },
+        "tag": "angelo-agatino-nicolosi"
+    },
+    {
+        "name": "Roy Derks",
+        "surname": "Derks",
+        "company": "",
+        "social": {
+            "twitter": "gethackteam",
+            "linkedin": "royderks1"
+        },
+        "tag": "roy-derks"
+    },
+    {
+        "name": "Isaac Levin",
+        "surname": "Levin",
+        "company": "Elastic",
+        "social": {
+            "twitter": "isaacrlevin",
+            "linkedin": "isaacrobinlevin"
+        },
+        "tag": "isaac-levin"
+    },
+    {
+        "name": "PJ Hagerty",
+        "surname": "Hagerty",
+        "company": "DevRelate.io",
+        "social": {
+            "twitter": "aspleenic",
+            "linkedin": "pjhagerty"
+        },
+        "tag": "pj-hagerty"
+    },
+    {
+        "name": "Olena Borzenko",
+        "surname": "Borzenko",
+        "company": "Xpirit ",
+        "social": {
+            "twitter": "borzenko_lena",
+            "linkedin": "olena-borzenko"
+        },
+        "tag": "olena-borzenko"
     }
 ]

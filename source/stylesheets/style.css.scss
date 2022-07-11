@@ -725,8 +725,8 @@ section {
         justify-content: center;
     
         .card {
-            min-width: 220px;
-            max-width: 220px;
+            min-width: 200px;
+            max-width: 200px;
             margin-bottom: 65px;
 
             &:hover {
@@ -740,8 +740,8 @@ section {
             }
 
             .card-body {
-                padding: 5px 5px 0;
-                font-size: 15px;
+                padding: 7px 5px 0;
+                font-size: 12px;
                 font-weight: 900;
                 font-style: normal;
                 letter-spacing: 0;
