@@ -2,7 +2,7 @@ version: 2.1
 jobs:
   build:
     docker: 
-      - image: mihcall/devconf-middleman:1.0.5
+      - image: mihcall/devconf-middleman:1.0.5-amd64
     steps:
       - checkout
       - run: bundle exec middleman build --verbose

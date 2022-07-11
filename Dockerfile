@@ -5,7 +5,7 @@ RUN apt-get update -y \
 	&& curl -sL https://deb.nodesource.com/setup_12.x | bash - \
 	&& apt-get install -y nodejs
 
-RUN gem install bundler:2.0.1
+RUN gem install bundler:2.2.29
 
 WORKDIR /app
 
