@@ -2,10 +2,17 @@
     unless defined?(card_img)
         card_img = false
     end
+
+    unless defined?(with_overlay)
+      with_overlay = false
+    end
 %>
 
 <%= tag :img, 
         :src => "/images/people/" + person.tag + '.png', 
         :alt => person.name, 
-        :class => "person-headshot grayscale " + (card_img ? "card-img-top" : "") %>
+        :class => "person-headshot " + (with_overlay ? " grayscale " : "") + (card_img ? " card-img-top" : "") %>
+
+<% if with_overlay %>
 <div class="picture-overlay"></div>
+<% end %>

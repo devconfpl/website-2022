@@ -4,7 +4,7 @@
 
 <div class="card text-center">
     <a href="/<%= type %>/<%= person.tag %>" class="stretched-link">
-        <%= partial "partials/person_photo", :locals => { :person => person, :card_img => true } %>
+        <%= partial "partials/person_photo", :locals => { :person => person, :card_img => true, :with_overlay => true } %>
     </a>
     <div class="card-body">
         <%= person.name %>
