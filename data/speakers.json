@@ -192,11 +192,41 @@
     {
         "name": "Olena Borzenko",
         "surname": "Borzenko",
-        "company": "Xpirit ",
+        "company": "Xpirit",
         "social": {
             "twitter": "borzenko_lena",
             "linkedin": "olena-borzenko"
         },
         "tag": "olena-borzenko"
+    },
+    {
+        "name": "Alexander Slotte",
+        "surname": "Slotte",
+        "company": "Excella ",
+        "social": {
+            "twitter": "alexslotte",
+            "linkedin": "alexander-slotte-2110a415"
+        },
+        "tag": "alexander-slotte"
+    },
+    {
+        "name": "Dan Erez",
+        "surname": "Erez",
+        "company": "AT&T",
+        "social": {
+            "twitter": "",
+            "linkedin": "dan-erez-8971891"
+        },
+        "tag": "dan-erez"
+    },
+    {
+        "name": "Jose García",
+        "surname": "García",
+        "company": "Corunet",
+        "social": {
+            "twitter": "jemacineiras",
+            "linkedin": "jose-garcia-macineiras"
+        },
+        "tag": "jose-garcia"
     }
 ]
