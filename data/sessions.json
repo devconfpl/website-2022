@@ -96,6 +96,12 @@
         "slot": 135
     },
     {
+        "id": "old-net-apps",
+        "title": "What do I do with my old .NET Framework Apps?",
+        "speaker_id": "isaac-levin",
+        "slot": 136
+    },
+    {
         "id": "can-vr-change-the-real-world",
         "title": "Can Virtual Reality Change the Real World?",
         "speaker_id": "piotr-loj",
@@ -145,7 +151,7 @@
     },
     {
         "id": "consistent-ux-at-scale",
-        "title": "Foundations of the MetaVerse: Azure Spatial Anchors and Understanding 3D Space",
+        "title": "Consistent UX at Scale: Lessons Learned When I Wore the DesignOps Hat",
         "speaker_id": "matheus-albuquerque",
         "slot": 223
     },
@@ -173,4 +179,4 @@
         "speaker_id": "alexander-slotte",
         "slot": 233
     }
-  ]
+]
