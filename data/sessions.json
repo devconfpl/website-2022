@@ -1,242 +1,176 @@
 [
     {
-        "id": "first-things-first",
-        "title": "First Things First",
-        "speaker_id": "nyaradzai-samushonga",
+        "id": "effective-developer",
+        "title": "The Effective Developer - Work Smarter, Not Harder",
+        "speaker_id": "sven-peters",
         "slot": 111
     },
     {
-        "id": "microservices-from-the-trenches",
-        "title": "Microservices from the Trenches. When Buzzwords Don't Make Your Application Work",
-        "speaker_id": "dan-patrascu-baba",
-        "slot": 125
-    },
-    {
-        "id": "serverless-architecture-on-production",
-        "title": "Serverless Architecture on Production: Good, Bad and Ugly Parts",
-        "speaker_id": "serhat-can",
-        "slot": 113
-    },
-    {
-        "id": "code-the-future-now",
-        "title": "Code the Future, Now",
-        "speaker_id": "adam-ralph",
-        "slot": 215
-    },
-    {
-        "id": "",
-        "title": "",
-        "speaker_id": "",
-        "slot": 115
-    },
-    {
-        "id": "identifying-and-scoping-microservices",
-        "title": "Identifying and Scoping Microservices",
-        "speaker_id": "christian-horsdal",
-        "slot": 126
-    },
-    {
-        "id": "",
-        "title": "",
-        "speaker_id": "",
-        "slot": 122
-    },
-    {
-        "id": "logging-instrumentation-dashboards",
-        "title": "Logging, Instrumentation, Dashboards and Alerts - for Developers",
-        "speaker_id": "henry-been",
-        "slot": 123
-    },
-    {
-        "id": "feature-toggles",
-        "title": "Feature Toggles: The Good, The Bad and The Ugly",
-        "speaker_id": "andy-davies",
-        "slot": 124
-    },
-    {
-        "id": "hololens-2",
-        "title": "The Future is Here, It's Just Not Evenly Distributed... Yet",
-        "speaker_id": "jesse-mcculloch",
+        "id": "why-graphql-is-perfect-for-microservices",
+        "title": "Why GraphQL is Perfect for Microservices",
+        "speaker_id": "roy-derks",
         "slot": 112
     },
     {
-        "id": "",
-        "title": "",
-        "speaker_id": "",
-        "slot": 116
-    },
-    {   
-        "id": "",
-        "title": "",
-        "speaker_id": "",
-        "slot": 117
+        "id": "domain-driven-refactoring",
+        "title": "Domain-Driven Refactoring",
+        "speaker_id": "jimmy-bogard",
+        "slot": 113
     },
     {
-        "id": "",
-        "title": "",
-        "speaker_id": "",
-        "slot": 132
-    },
-    {
-        "id": "privilege-as-a-technical-debt",
-        "title": "Privilege as a Technical Debt",
-        "speaker_id": "amr-abdelwahab",
-        "slot": 133
-    },
-    {
-        "id": "designing-accessible-apps",
-        "title": "Designing Accessible Apps",
-        "speaker_id": "dennie-declercq",
-        "slot": 144
-    },
-    {
-        "id": "quantun-computing",
-        "title": "Quantum Computing: the Important Stuff",
-        "speaker_id": "coleman-collins",
-        "slot": 135
-    },
-    {
-        "id": "security",
-        "title": "Security – Only Developers Can Make It Proactive",
-        "speaker_id": "beata-szturemska",
-        "slot": 136
-    },
-    {
-        "id": "talk-to-me-nicely",
-        "title": "Talk to Me Nicely - How to Communicate Your Ideas and Speed Up Your Career",
-        "speaker_id": "piotr-stawirej",
-        "slot": 244
-    },
-    {
-        "id": "when-human-life-depends-on-software",
-        "title": "When Human Life Depends on Software - Introduction to Safety-Critical Systems",
-        "speaker_id": "maciej-gajdzica",
-        "slot": 143
-    },
-    {
-        "id": "welcome-to-the-machine",
-        "title": "Welcome to the Machine",
-        "speaker_id": "hadi-hariri",
-        "slot": 211
-    },
-    {
-        "id": "from-monolithic-monster",
-        "title": "From Monolithic Monster to Majestic Microservice App",
-        "speaker_id": "callum-whyte",
-        "slot": 212
-    },
-    {
-        "id": "",
-        "title": "",
-        "speaker_id": "",
-        "slot": 213
-    },
-    {
-        "id": "azure-functions",
-        "title": "Azure Functions Beyond \"Out of the Box\" - a Guided Tour of Azure Functions Extensibility",
-        "speaker_id": "tomasz-peczek",
-        "slot": 214
-    },
-    {
-        "id": "running-a-real-world-system",
-        "title": "Running a Real World, Mission-Critical System on Azure",
-        "speaker_id": "loek-duys",
+        "id": "ddd-as-the-key",
+        "title": "DDD as the Key to Enterprise Multicloud",
+        "speaker_id": "angelo-agatino-nicolosi",
         "slot": 114
     },
     {
-        "id": "",
-        "title": "",
-        "speaker_id": "",
-        "slot": 216
+        "id": "predicting-f1-race-strategies",
+        "title": "Predicting F1 Race Strategies Using ML.NET",
+        "speaker_id": "michal-lusiak",
+        "slot": 115
     },
     {
-        "id": "net-core",
-        "title": "High-Performance Networking with .NET Core 3.0",
-        "speaker_id": "mark-rendle",
+        "id": "use-principles-of-psychology",
+        "title": "Use Principles of Psychology to Build Better Software",
+        "speaker_id": "rachel-appel",
+        "slot": 116
+    },
+    {
+        "id": "the-future-of-computing",
+        "title": "The Future of Computing with Spatial Computing and Quantum Computing",
+        "speaker_id": "rene-schulte",
+        "slot": 117
+    },
+    {
+        "id": "plain-text",
+        "title": "Plain Text",
+        "speaker_id": "dylan-beattie",
+        "slot": 122
+    },
+    {
+        "id": "are-all-programming-languages",
+        "title": "Are All Programming Languages in English?",
+        "speaker_id": "michele-riva",
+        "slot": 123
+    },
+    {
+        "id": "everything-you-dont-git",
+        "title": "Everything You Don't Need to Know About Git",
+        "speaker_id": "garance-vallat",
+        "slot": 124
+    },
+    {
+        "id": "hackathons",
+        "title": "Hackathons - Unleashing Hidden Potential in Organizations and Empower Individuals",
+        "speaker_id": "andreas-erben",
+        "slot": 125
+    },
+    {
+        "id": "the-state-of-modern-apis",
+        "title": "The State of Modern APIs - Comparing GraphQL, REST, and gRPC",
+        "speaker_id": "spencer-schneidenbach",
+        "slot": 126
+    },
+    {
+        "id": "developing-spring-cloud",
+        "title": "Developing Spring Cloud Micro Services With a Central Environment While Avoiding Service Collisions",
+        "speaker_id": "dan-erez",
+        "slot": 132
+    },
+    {
+        "id": "kloadgen",
+        "title": "Kloadgen: An empty Kafka is a sad Kafka",
+        "speaker_id": "jose-garcia",
+        "slot": 133
+    },
+    {
+        "id": "scaling-your-data",
+        "title": "Scaling your data to the size of the Cosmos (DB)",
+        "speaker_id": "olena-borzenko",
         "slot": 134
     },
     {
-        "id": "futurology",
-        "title": "Futurology for Developers - The Next 30 Years in Tech",
-        "speaker_id": "mark-rendle",
+        "id": "creative-coding",
+        "title": "Creative Coding in Your Web Browser",
+        "speaker_id": "konstantin-bifert",
+        "slot": 135
+    },
+    {
+        "id": "can-vr-change-the-real-world",
+        "title": "Can Virtual Reality Change the Real World?",
+        "speaker_id": "piotr-loj",
+        "slot": 211
+    },
+    {
+        "id": "your-infrastructure",
+        "title": "Your Infrastructure Needs To D.I.E.",
+        "speaker_id": "timothy-mamo",
+        "slot": 212
+    },
+    {
+        "id": "infrastructure-of-code",
+        "title": "The Resurgence of Infrastructure as Code",
+        "speaker_id": "paul-stack",
+        "slot": 213
+    },
+    {
+        "id": "machine-learning-from-kids",
+        "title": "Learning About Machine Learning From Kids",
+        "speaker_id": "dale-lane",
+        "slot": 214
+    },
+    {
+        "id": "consistency-and-agreements",
+        "title": "Consistency and Agreements in Microservices",
+        "speaker_id": "jimmy-bogard",
+        "slot": 215
+    },
+    {
+        "id": "from-turing-to-big-data",
+        "title": "From Turing to Big Data: A Look at Computing and Analytics",
+        "speaker_id": "pj-hagerty",
+        "slot": 216
+    },
+    {
+        "id": "what-srocery-is-this",
+        "title": "What Sorcery is This? How Software Uses Dark Patterns to Manipulate Users",
+        "speaker_id": "rachel-appel",
         "slot": 217
     },
     {
-        "id": "",
-        "title": "",
-        "speaker_id": "",
+        "id": "foundations-of-the-metaverse",
+        "title": "Foundations of the MetaVerse: Azure Spatial Anchors and Understanding 3D Space",
+        "speaker_id": "andreas-erben",
         "slot": 222
     },
     {
-        "id": "ml-buzzwords",
-        "title": "ML Buzzwords Demystified",
-        "speaker_id": "natalia-an",
+        "id": "consistent-ux-at-scale",
+        "title": "Foundations of the MetaVerse: Azure Spatial Anchors and Understanding 3D Space",
+        "speaker_id": "matheus-albuquerque",
         "slot": 223
     },
     {
-        "id": "",
-        "title": "",
-        "speaker_id": "",
+        "id": "is-decentralization",
+        "title": "Is Decentralization the Paneceum for the 21st Century? Let's Find Out.",
+        "speaker_id": "sebastian-gebski",
         "slot": 224
     },
     {
-        "id": "breaking-black-box-ai",
-        "title": "Breaking Black-Box AI",
-        "speaker_id": "evelina-gabasova",
+        "id": "from-ukrainian-moonshine",
+        "title": "From Ukrainian Moonshine to Azure CosmosDB",
+        "speaker_id": "olena-borzenko",
         "slot": 225
     },
     {
-        "id": "memory-management",
-        "title": "Manual Memory Management in .NET Framework",
-        "speaker_id": "adam-furmanek",
-        "slot": 226
-    },
-    {
-        "id": "mr-cloud-services",
-        "title": "Anchors are the Key to Unlocking the Door of Persistence",
-        "speaker_id": "jesse-mcculloch",
+        "id": "building-a-software-company",
+        "title": "Building a Software Company From The Ground Up - Facts, Myths, and Everything In Between",
+        "speaker_id": "spencer-schneidenbach",
         "slot": 232
     },
     {
-        "id": "",
-        "title": "",
-        "speaker_id": "",
+        "id": "building-deep-neural-networks",
+        "title": "Building Deep Neural Networks in .NET",
+        "speaker_id": "alexander-slotte",
         "slot": 233
-    },
-    {
-        "id": "data-over-code",
-        "title": "Data over Code: a Short Hyperbole",
-        "speaker_id": "norbert-wojtowicz",
-        "slot": 234
-    },
-    {
-        "id": "ant-paths",
-        "title": "Ant Paths and Strindberg’s Elevator – Leadership and Value in an Age of Change",
-        "speaker_id": "johan-obrink",
-        "slot": 235
-    },
-    {
-        "id": "kotlin-anywhere",
-        "title": "Kotlin/Anywhere",
-        "speaker_id": "hadi-hariri",
-        "slot": 236
-    },
-    {
-        "id": "async-internals",
-        "title": "Async Internals in .NET",
-        "speaker_id": "adam-furmanek",
-        "slot": 242
-    },
-    {
-        "id": "impostor-syndrome",
-        "title": "Impostor Syndrome",
-        "speaker_id": "anita-przybyl",
-        "slot": 243
-    },
-    {
-        "id": "7-deadlier-sins-of-craftsmanship",
-        "title": "7 Deadlier Sins of Craftsmanship",
-        "speaker_id": "tomasz-dubikowski",
-        "slot": 142
     }
-]
+  ]

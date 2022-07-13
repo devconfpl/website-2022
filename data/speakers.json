@@ -228,5 +228,25 @@
             "linkedin": "jose-garcia-macineiras"
         },
         "tag": "jose-garcia"
+    },
+    {
+        "name": "Paul Stack",
+        "surname": "Stack",
+        "company": "Pulumi",
+        "social": {
+            "twitter": "stack72",
+            "linkedin": "stack72"
+        },
+        "tag": "paul-stack"
+    },
+    {
+        "name": "Matheus Albuquerque",
+        "surname": "Albuquerque",
+        "company": "Citrix",
+        "social": {
+            "twitter": "ythecombinator",
+            "linkedin": "ythecombinator"
+        },
+        "tag": "matheus-albuquerque"
     }
 ]
