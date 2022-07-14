@@ -200,14 +200,14 @@
         "tag": "olena-borzenko"
     },
     {
-        "name": "Alexander Slotte",
-        "surname": "Slotte",
-        "company": "Excella ",
+        "name": "Dave McAllister",
+        "surname": "McAllister",
+        "company": "NGINX ",
         "social": {
-            "twitter": "alexslotte",
-            "linkedin": "alexander-slotte-2110a415"
+            "twitter": "dwmcallister",
+            "linkedin": "davemc"
         },
-        "tag": "alexander-slotte"
+        "tag": "dave-mcallister"
     },
     {
         "name": "Dan Erez",

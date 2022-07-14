@@ -174,9 +174,9 @@
         "slot": 232
     },
     {
-        "id": "building-deep-neural-networks",
-        "title": "Building Deep Neural Networks in .NET",
-        "speaker_id": "alexander-slotte",
+        "id": "adding-opentelemetry",
+        "title": "Adding OpenTelemetry to Production Apps: Lessons Learned",
+        "speaker_id": "dave-mcallister",
         "slot": 233
     }
 ]
