@@ -1,3 +1,7 @@
+<%
+    visible_speakers = data.speakers.select{ |s| (defined? s.show) ? s.show : true }
+%>
+
 <section id="counters">
     <div class="container-fluid px-0">
         <div class="row no-gutters">
@@ -24,7 +28,7 @@
                     </div>
                     <div class="col-sm-3 col-6 counter">
                         <div class="counter-content">
-                            <span class="count"><%= data.speakers.length %></span>
+                            <span class="count"><%= visible_speakers.length %></span>
                             <span class="title">Speakers</span>
                         </div>
                     </div>
