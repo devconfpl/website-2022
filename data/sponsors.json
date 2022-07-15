@@ -16,5 +16,11 @@
         "name": "Tietoevry",
         "link": "https://www.tietoevry.com/pl/",
         "tier": "gold"
+    },
+    {
+        "id": "htd",
+        "name": "HTD",
+        "link": "https://htdhealth.com/",
+        "tier": "gold"
     }
 ]
