@@ -1,5 +1,5 @@
 <%
-    person_sessions = data.sessions.select{ |s| s.speaker_id == person.tag }
+    person_sessions = data.sessions.select{ |s| s.speaker_tags.include? person.tag }
     person_workshops = data.workshops.items.select{ |w| w.speaker_tags.include? person.tag }
 %>
 

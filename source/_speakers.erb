@@ -3,7 +3,9 @@
         is_brief = true
     end
 
-    speakers = is_brief ? data.speakers.sample(data.general.speakers_main_page_count) : data.speakers;
+    visible_speakers = data.speakers.select{ |s| (defined? s.show) ? s.show : true }
+
+    speakers = is_brief ? visible_speakers.sample(data.general.speakers_main_page_count) : visible_speakers;
 %>
 
 <section id="speakers">

@@ -170,16 +170,6 @@
         "tag": "roy-derks"
     },
     {
-        "name": "Isaac Levin",
-        "surname": "Levin",
-        "company": "Elastic",
-        "social": {
-            "twitter": "isaacrlevin",
-            "linkedin": "isaacrobinlevin"
-        },
-        "tag": "isaac-levin"
-    },
-    {
         "name": "PJ Hagerty",
         "surname": "Hagerty",
         "company": "DevRelate.io",
@@ -248,5 +238,36 @@
             "linkedin": "ythecombinator"
         },
         "tag": "matheus-albuquerque"
+    },
+    {
+        "name": "Julian Lang",
+        "surname": "Lang",
+        "company": "AWS",
+        "social": {
+            "twitter": "",
+            "linkedin": "julian-lang-721a54191"
+        },
+        "tag": "julian-lang"
+    },
+    {
+        "name": "Martin Sakowski",
+        "surname": "Sakowski",
+        "company": "AWS",
+        "social": {
+            "twitter": "",
+            "linkedin": "martinsakowski"
+        },
+        "tag": "martin-sakowski"
+    },
+    {
+        "name": "Martin Sakowski, Julian Lang",
+        "surname": "Sakowski",
+        "company": "AWS",
+        "social": {
+            "twitter": "",
+            "linkedin": ""
+        },
+        "tag": "julian-lang-martin-sakowski",
+        "show": false
     }
 ]
