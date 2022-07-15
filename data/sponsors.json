@@ -6,9 +6,15 @@
         "tier": "platinum"
     },
     {
-      "id": "hitachi",
-      "name": "Hitachi Energy",
-      "link": "https://www.hitachienergy.com/about-us/country-and-regional-information/poland",
-      "tier": "gold"
-  }
+        "id": "hitachi",
+        "name": "Hitachi Energy",
+        "link": "https://www.hitachienergy.com/about-us/country-and-regional-information/poland",
+        "tier": "gold"
+    },
+    {
+        "id": "tietoevry",
+        "name": "Tietoevry",
+        "link": "https://www.tietoevry.com/pl/",
+        "tier": "gold"
+    }
 ]
