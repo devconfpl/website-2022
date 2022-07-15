@@ -1682,10 +1682,16 @@ section {
               }
             }
 
+            &.sponsor-silver {
+              img {
+                height: 30px;
+              }
+            }
+
             img {
                 // width: 200px;
                 max-width: 250px;
-                height: 30px;
+                height: 35px;
             }
 
             &.narrow {
