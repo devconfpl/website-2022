@@ -84,10 +84,10 @@
         "slot": 126
     },
     {
-        "id": "developing-spring-cloud",
-        "title": "Developing Spring Cloud Micro Services With a Central Environment While Avoiding Service Collisions",
-        "speaker_id": "dan-erez",
-        "speaker_tags": ["dan-erez"],
+        "id": "5-unit-testing-facts",
+        "title": "5 Unit Testing Facts I Wish I Knew 10 Years Ago",
+        "speaker_id": "dror-helper",
+        "speaker_tags": ["dror-helper"],
         "slot": 132
     },
     {
@@ -117,6 +117,13 @@
         "speaker_id": "julian-lang-martin-sakowski",
         "speaker_tags": ["julian-lang", "martin-sakowski"],
         "slot": 136
+    },
+    {
+      "id": "developing-spring-cloud",
+      "title": "Developing Spring Cloud Micro Services With a Central Environment While Avoiding Service Collisions",
+      "speaker_id": "dan-erez",
+      "speaker_tags": ["dan-erez"],
+      "slot": 142
     },
     {
         "id": "can-vr-change-the-real-world",
@@ -175,13 +182,6 @@
         "slot": 222
     },
     {
-        "id": "consistent-ux-at-scale",
-        "title": "Consistent UX at Scale: Lessons Learned When I Wore the DesignOps Hat",
-        "speaker_id": "matheus-albuquerque",
-        "speaker_tags": ["matheus-albuquerque"],
-        "slot": 223
-    },
-    {
         "id": "is-decentralization",
         "title": "Is Decentralization the Paneceum for the 21st Century? Let's Find Out.",
         "speaker_id": "sebastian-gebski",
@@ -208,5 +208,19 @@
         "speaker_id": "dave-mcallister",
         "speaker_tags": ["dave-mcallister"],
         "slot": 233
+    },
+    {
+        "id": "developer-guide-to-aws",
+        "title": "A Software Developer Guide to Working With AWS",
+        "speaker_id": "dror-helper",
+        "speaker_tags": ["dror-helper"],
+        "slot": 234
+    },
+    {
+        "id": "consistent-ux-at-scale",
+        "title": "Consistent UX at Scale: Lessons Learned When I Wore the DesignOps Hat",
+        "speaker_id": "matheus-albuquerque",
+        "speaker_tags": ["matheus-albuquerque"],
+        "slot": 235
     }
 ]

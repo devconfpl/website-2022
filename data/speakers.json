@@ -269,5 +269,15 @@
         },
         "tag": "julian-lang-martin-sakowski",
         "show": false
+    },
+    {
+        "name": "Dror Helper",
+        "surname": "Helper",
+        "company": "",
+        "social": {
+            "twitter": "dhelper",
+            "linkedin": "drorhelper"
+        },
+        "tag": "dror-helper"
     }
 ]

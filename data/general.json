@@ -3,7 +3,7 @@
     "tickets_link": "http://register.devconf.pl/",
     "conf_start_date": "2022-09-01",
     "conf_days_count": 2,
-    "rooms_count": 3,
+    "rooms_count": 4,
     "slots_count": 7,
     "slot_length": 50,
     "speakers_main_page_count": 10,
