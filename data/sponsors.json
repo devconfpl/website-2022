@@ -30,6 +30,12 @@
         "tier": "gold"
     },
     {
+        "id": "harvinar",
+        "name": "HarvinAR",
+        "link": "https://harvinar.com/",
+        "tier": "gold"
+    },
+    {
         "id": "future-processing",
         "name": "Future Processing",
         "link": "https://www.future-processing.com/",
