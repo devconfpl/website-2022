@@ -36,6 +36,12 @@
         "tier": "gold"
     },
     {
+        "id": "dna",
+        "name": "Digital New Agency Technology AB",
+        "link": "https://dnatechnology.io/",
+        "tier": "gold"
+    },
+    {
         "id": "future-processing",
         "name": "Future Processing",
         "link": "https://www.future-processing.com/",
