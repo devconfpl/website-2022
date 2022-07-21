@@ -25,7 +25,7 @@
                 <div class="sponsor-group">
                     <h4><%= t %></h4>
                     <% data.sponsors.select { |s| s.tier.casecmp(t) == 0 }.each do |s| %>
-                        <div class="sponsor sponsor-<%= s.tier %>">
+                        <div class="sponsor sponsor-<%= s.tier %> <%= 'narrow' if s.narrow %>">
                             <a href="<%= utm_link s.link %>">
                                 <%= tag :img, 
                                     :src => '/images/sponsors/' + s.id + '.png', 

@@ -24,6 +24,13 @@
         "tier": "gold"
     },
     {
+        "id": "bgk",
+        "name": "Bank Gospodarstwa Krajowego",
+        "link": "https://www.bgk.pl/",
+        "tier": "gold",
+        "narrow": true
+    },
+    {
         "id": "onwelo",
         "name": "Onwelo",
         "link": "https://onwelo.com/",

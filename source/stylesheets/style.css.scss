@@ -1682,6 +1682,18 @@ section {
               }
             }
 
+            &.sponsor-gold {
+              &.narrow {
+                img {
+                  height: 70px;
+                }
+              }
+
+              img {
+                height: 35px;
+              }
+            }
+
             &.sponsor-silver {
               img {
                 height: 30px;
@@ -1695,11 +1707,11 @@ section {
             }
 
             &.narrow {
-                min-width: 100px;
+                // min-width: 100px;
 
-                img {
-                    width: 100px;
-                }
+                // img {
+                //     width: 100px;
+                // }
             }
         }
 
