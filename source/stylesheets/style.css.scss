@@ -1656,6 +1656,10 @@ section {
             width: 700px;
         }
 
+        @media screen and (min-width: 992px) {
+            width: 900px;
+        }
+
         h4 {
             color: $gray;
             width: 100%;
