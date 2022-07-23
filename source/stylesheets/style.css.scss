@@ -1704,6 +1704,12 @@ section {
               }
             }
 
+            &.sponsor-virtual {
+                img {
+                  height: 25px;
+                }
+              }
+
             img {
                 // width: 200px;
                 max-width: 250px;

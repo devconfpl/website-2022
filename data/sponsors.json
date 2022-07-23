@@ -66,5 +66,11 @@
         "name": "Future Processing",
         "link": "https://kariera.future-processing.pl/",
         "tier": "silver"
+    },
+    {
+        "id": "codeclusive",
+        "name": "Codeclusive",
+        "link": "https://codeclusive.io/",
+        "tier": "virtual"
     }
 ]
