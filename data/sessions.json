@@ -211,6 +211,13 @@
         "slot": 232
     },
     {
+        "id": "wireless-mission-critical-5g",
+        "title": "Wireless Mission Critical Networks With 5G",
+        "speaker_id": "bartosz-nawrot",
+        "speaker_tags": ["bartosz-nawrot"],
+        "slot": 233
+    },
+    {
         "id": "developer-guide-to-aws",
         "title": "A Software Developer Guide to Working With AWS",
         "speaker_id": "dror-helper",
