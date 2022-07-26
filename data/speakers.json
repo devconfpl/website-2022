@@ -269,5 +269,15 @@
             "linkedin": "drorhelper"
         },
         "tag": "dror-helper"
+    },
+    {
+        "name": "Bartosz Nawrot",
+        "surname": "Nawrot",
+        "company": "Ericsson",
+        "social": {
+            "twitter": "",
+            "linkedin": "bartosz-nawrot-aab890127"
+        },
+        "tag": "bartosz-nawrot"
     }
 ]
