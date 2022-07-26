@@ -18,6 +18,12 @@
         "tier": "gold"
     },
     {
+        "id": "ericsson",
+        "name": "Ericsson",
+        "link": "https://www.ericsson.com/pl/careers/global-locations/poland",
+        "tier": "gold"
+    },
+    {
         "id": "htd",
         "name": "HTD",
         "link": "https://htdhealth.com/",
