@@ -182,17 +182,25 @@
         "slot": 222
     },
     {
+        "id": "from-ukrainian-moonshine",
+        "title": "From Ukrainian Moonshine to Azure CosmosDB",
+        "speaker_id": "olena-borzenko",
+        "speaker_tags": ["olena-borzenko"],
+        "slot": 223
+    },
+    {
         "id": "is-decentralization",
         "title": "Is Decentralization the Paneceum for the 21st Century? Let's Find Out.",
         "speaker_id": "sebastian-gebski",
         "speaker_tags": ["sebastian-gebski"],
         "slot": 224
     },
+    
     {
-        "id": "from-ukrainian-moonshine",
-        "title": "From Ukrainian Moonshine to Azure CosmosDB",
-        "speaker_id": "olena-borzenko",
-        "speaker_tags": ["olena-borzenko"],
+        "id": "consistent-ux-at-scale",
+        "title": "Consistent UX at Scale: Lessons Learned When I Wore the DesignOps Hat",
+        "speaker_id": "matheus-albuquerque",
+        "speaker_tags": ["matheus-albuquerque"],
         "slot": 225
     },
     {
@@ -201,13 +209,6 @@
         "speaker_id": "spencer-schneidenbach",
         "speaker_tags": ["spencer-schneidenbach"],
         "slot": 232
-    },
-    {
-        "id": "adding-opentelemetry",
-        "title": "Adding OpenTelemetry to Production Apps: Lessons Learned",
-        "speaker_id": "dave-mcallister",
-        "speaker_tags": ["dave-mcallister"],
-        "slot": 233
     },
     {
         "id": "developer-guide-to-aws",

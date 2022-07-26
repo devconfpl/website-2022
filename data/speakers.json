@@ -190,16 +190,6 @@
         "tag": "olena-borzenko"
     },
     {
-        "name": "Dave McAllister",
-        "surname": "McAllister",
-        "company": "NGINX ",
-        "social": {
-            "twitter": "dwmcallister",
-            "linkedin": "davemc"
-        },
-        "tag": "dave-mcallister"
-    },
-    {
         "name": "Dan Erez",
         "surname": "Erez",
         "company": "AT&T",
