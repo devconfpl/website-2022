@@ -49,6 +49,12 @@
         "tier": "gold"
     },
     {
+        "id": "idemia",
+        "name": "IDEMIA",
+        "link": "https://faceidemia.com.pl/",
+        "tier": "gold"
+    },
+    {
         "id": "harman",
         "name": "Digital New Agency Technology AB",
         "link": "https://www.harman.com/",
