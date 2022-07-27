@@ -223,12 +223,5 @@
         "speaker_id": "dror-helper",
         "speaker_tags": ["dror-helper"],
         "slot": 234
-    },
-    {
-        "id": "consistent-ux-at-scale",
-        "title": "Consistent UX at Scale: Lessons Learned When I Wore the DesignOps Hat",
-        "speaker_id": "matheus-albuquerque",
-        "speaker_tags": ["matheus-albuquerque"],
-        "slot": 235
     }
 ]
