@@ -1632,6 +1632,7 @@ section {
 }
 
 #sponsors,
+#strategic-partner,
 #community-partners,
 #media-partners,
 #scholarship-partners {
@@ -1770,6 +1771,18 @@ section {
 
     .media-partner-group {
         padding-bottom: 20px;
+    }
+}
+
+#strategic-partner {
+    .sponsor-group {
+        margin-top: 0;
+
+        .sponsor {
+            img {
+                height: 80px;
+            }
+        }
     }
 }
 
