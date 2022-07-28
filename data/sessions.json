@@ -182,10 +182,10 @@
         "slot": 222
     },
     {
-        "id": "from-ukrainian-moonshine",
-        "title": "From Ukrainian Moonshine to Azure CosmosDB",
-        "speaker_id": "olena-borzenko",
-        "speaker_tags": ["olena-borzenko"],
+        "id": "tba",
+        "title": "TBA",
+        "speaker_id": "jesse-mcculloch",
+        "speaker_tags": ["jesse-mcculloch"],
         "slot": 223
     },
     {
@@ -195,7 +195,6 @@
         "speaker_tags": ["sebastian-gebski"],
         "slot": 224
     },
-    
     {
         "id": "consistent-ux-at-scale",
         "title": "Consistent UX at Scale: Lessons Learned When I Wore the DesignOps Hat",
@@ -209,6 +208,13 @@
         "speaker_id": "spencer-schneidenbach",
         "speaker_tags": ["spencer-schneidenbach"],
         "slot": 232
+    },
+    {
+        "id": "from-ukrainian-moonshine",
+        "title": "From Ukrainian Moonshine to Azure CosmosDB",
+        "speaker_id": "olena-borzenko",
+        "speaker_tags": ["olena-borzenko"],
+        "slot": 226
     },
     {
         "id": "wireless-mission-critical-5g",

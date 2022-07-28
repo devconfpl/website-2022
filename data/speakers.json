@@ -279,5 +279,15 @@
             "linkedin": "bartosz-nawrot-aab890127"
         },
         "tag": "bartosz-nawrot"
+    },
+    {
+        "name": "Jesse McCulloch",
+        "surname": "McCulloch",
+        "company": "Microsoft",
+        "social": {
+            "twitter": "jbmcculloch",
+            "linkedin": "jessebmcculloch"
+        },
+        "tag": "jesse-mcculloch"
     }
 ]
