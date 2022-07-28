@@ -12,6 +12,12 @@
         "tier": "gold"
     },
     {
+        "id": "microsoft",
+        "name": "Microsoft",
+        "link": "https://www.microsoft.com/",
+        "tier": "gold"
+    },
+    {
         "id": "tietoevry",
         "name": "Tietoevry",
         "link": "https://www.tietoevry.com/pl/",
