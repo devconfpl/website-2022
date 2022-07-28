@@ -289,5 +289,15 @@
             "linkedin": "jessebmcculloch"
         },
         "tag": "jesse-mcculloch"
+    },
+    {
+        "name": "Kevin Wang",
+        "surname": "Wang",
+        "company": "Affirm",
+        "social": {
+            "twitter": "",
+            "linkedin": "kevnwang"
+        },
+        "tag": "kevin-wang"
     }
 ]

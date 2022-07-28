@@ -229,5 +229,12 @@
         "speaker_id": "dror-helper",
         "speaker_tags": ["dror-helper"],
         "slot": 234
+    },
+    {
+        "id": "fraud-never-sleeps",
+        "title": "#FraudNeverSleeps",
+        "speaker_id": "kevin-wang",
+        "speaker_tags": ["kevin-wang"],
+        "slot": 235
     }
 ]
