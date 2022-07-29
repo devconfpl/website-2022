@@ -86,6 +86,12 @@
         "tier": "silver"
     },
     {
+        "id": "dataart",
+        "name": "DataArt",
+        "link": "https://www.dataart.com/",
+        "tier": "silver"
+    },
+    {
         "id": "codeclusive",
         "name": "Codeclusive",
         "link": "https://codeclusive.io/",
