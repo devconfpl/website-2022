@@ -3,5 +3,10 @@
         "id": "wsei",
         "name": "Wyzsza Szkoła Ekonomii i Informatyki w Krakowie",
         "link": "https://wsei.edu.pl/"
+    },
+    {
+        "id": "solidjobs",
+        "name": "SOLID.Jobs",
+        "link": "https://solid.jobs/offers/it"
     }
 ]
