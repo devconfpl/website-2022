@@ -299,5 +299,15 @@
             "linkedin": "kevnwang"
         },
         "tag": "kevin-wang"
+    },
+    {
+        "name": "Frank Lyaruu",
+        "surname": "Lyaruu",
+        "company": "Quin.md",
+        "social": {
+            "twitter": "lyaruu",
+            "linkedin": "lyaruu"
+        },
+        "tag": "frank-lyaruu"
     }
 ]
