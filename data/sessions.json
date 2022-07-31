@@ -126,6 +126,13 @@
       "slot": 142
     },
     {
+        "id": "reuniting-micro-service-data",
+        "title": "Re-Uniting Micro Service Data: A Streaming Story",
+        "speaker_id": "frank-lyaruu",
+        "speaker_tags": ["frank-lyaruu"],
+        "slot": 143
+      },
+    {
         "id": "can-vr-change-the-real-world",
         "title": "Can Virtual Reality Change the Real World?",
         "speaker_id": "piotr-loj",

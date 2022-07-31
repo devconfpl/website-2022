@@ -1,0 +1,11 @@
+We all know and love our micro service architectures. As every service has ownership of its own code base and data, we can iterate on each service separately.
+
+However, a problem arises when we need to combine data from different services.
+
+For instance, taking the standard e-commerce example, suppose we want to display the most successful product in an area. To do that, I'll need sales data owned by "Sales", combined with address data from the "Customer" service, and probably some pricing data from the "Product" service.
+
+In a monolith, it could be a single SQL join. In most micro service systems, this is not easy to do efficiently. This aspect tends to be overlooked when discussing micro services: Try as we might to decouple systems into sensible domains, sooner or later there will be a business requirement that does goes right across those boundaries and we will need to find a way to reunite this data.
+
+So can we join data from different services inside different databases? Luckily, the answer is yes.
+
+To make this more concrete, we will look at Debezium, a change capture solution by Red Hat, and Apache Flink, a stream processing framework, and of course a little bit of Kafka.
