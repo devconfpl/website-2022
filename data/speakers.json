@@ -261,6 +261,17 @@
         "show": false
     },
     {
+        "name": "Organizers, Adam Pustelnik, ABB",
+        "surname": "organizers",
+        "company": "",
+        "social": {
+            "twitter": "",
+            "linkedin": ""
+        },
+        "tag": "organizers-pustelnik-abb",
+        "show": false
+    },
+    {
         "name": "Dror Helper",
         "surname": "Helper",
         "company": "",

@@ -3,7 +3,8 @@
     slot_time_id = day * 100 + slot
 
     slot_start_time = Time.parse(data.slots[slot_time_id])
-    slot_end_time = slot_start_time + data.general.slot_length * 60
+    slot_length = slot == 0 ? 10 : data.general.slot_length
+    slot_end_time = slot_start_time + slot_length * 60
 
     session = data.sessions.find { |s| s.slot == slot_id }
     speaker = session.nil? ? nil : data.speakers.find { |s| s.tag == session.speaker_id }

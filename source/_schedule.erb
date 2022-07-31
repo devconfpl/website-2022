@@ -1,7 +1,7 @@
 <%
     days = [*1..data.general.conf_days_count]
     rooms = [*1..data.general.rooms_count]
-    slots = [*1..data.general.slots_count]
+    slots = [*0..data.general.slots_count]
 
     start_date = Date.parse(data.general.conf_start_date)
 %>

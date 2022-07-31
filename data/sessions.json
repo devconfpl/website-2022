@@ -1,5 +1,12 @@
 [
     {
+        "id": "opening",
+        "title": "Conference Opening",
+        "speaker_id": "organizers-pustelnik-abb",
+        "speaker_tags": ["organizers-pustelnik-abb"],
+        "slot": 110
+    },
+    {
         "id": "effective-developer",
         "title": "The Effective Developer - Work Smarter, Not Harder",
         "speaker_id": "sven-peters",
