@@ -92,6 +92,12 @@
         "tier": "silver"
     },
     {
+        "id": "binarapps",
+        "name": "BinarApps",
+        "link": "https://binarapps.com/",
+        "tier": "silver"
+    },
+    {
         "id": "codeclusive",
         "name": "Codeclusive",
         "link": "https://codeclusive.io/",
