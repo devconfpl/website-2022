@@ -114,5 +114,11 @@
         "name": "Codeclusive",
         "link": "https://codeclusive.io/",
         "tier": "virtual"
+    },
+    {
+        "id": "happyteam",
+        "name": "HappyTeam",
+        "link": "https://happyteam.io/",
+        "tier": "virtual"
     }
 ]
