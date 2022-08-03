@@ -36,6 +36,12 @@
         "tier": "gold"
     },
     {
+      "id": "endava",
+      "name": "Endava",
+      "link": "https://www.endava.com/en",
+      "tier": "gold"
+    },
+    {
         "id": "bgk",
         "name": "Bank Gospodarstwa Krajowego",
         "link": "https://www.bgk.pl/",
