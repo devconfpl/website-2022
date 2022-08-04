@@ -250,5 +250,12 @@
         "speaker_id": "kevin-wang",
         "speaker_tags": ["kevin-wang"],
         "slot": 235
+    },
+    {
+        "id": "outlook-for-car",
+        "title": "Outlook for the Future Car",
+        "speaker_id": "szymon-pawlowski",
+        "speaker_tags": ["szymon-pawlowski"],
+        "slot": 236
     }
 ]

@@ -320,5 +320,15 @@
             "linkedin": "lyaruu"
         },
         "tag": "frank-lyaruu"
+    },
+    {
+        "name": "Szymon Pawłowski",
+        "surname": "Pawłowski",
+        "company": "Harman",
+        "social": {
+            "twitter": "",
+            "linkedin": "pawlowskiszymon"
+        },
+        "tag": "szymon-pawlowski"
     }
 ]
