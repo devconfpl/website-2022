@@ -90,16 +90,6 @@
         "tag": "andreas-erben"
     },
     {
-        "name": "Dale Lane",
-        "surname": "Lane",
-        "company": "IBM",
-        "social": {
-            "twitter": "dalelane",
-            "linkedin": "dalelane"
-        },
-        "tag": "dale-lane"
-    },
-    {
         "name": "Garance Vallat",
         "surname": "Vallat",
         "company": "FactorialHR",

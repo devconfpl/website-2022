@@ -161,10 +161,10 @@
         "slot": 213
     },
     {
-        "id": "machine-learning-from-kids",
-        "title": "Learning About Machine Learning From Kids",
-        "speaker_id": "dale-lane",
-        "speaker_tags": ["dale-lane"],
+        "id": "building-a-software-company",
+        "title": "Building a Software Company From The Ground Up - Facts, Myths, and Everything In Between",
+        "speaker_id": "spencer-schneidenbach",
+        "speaker_tags": ["spencer-schneidenbach"],
         "slot": 214
     },
     {
@@ -217,10 +217,10 @@
         "slot": 225
     },
     {
-        "id": "building-a-software-company",
-        "title": "Building a Software Company From The Ground Up - Facts, Myths, and Everything In Between",
-        "speaker_id": "spencer-schneidenbach",
-        "speaker_tags": ["spencer-schneidenbach"],
+        "id": "outlook-for-car",
+        "title": "Outlook for the Future Car",
+        "speaker_id": "szymon-pawlowski",
+        "speaker_tags": ["szymon-pawlowski"],
         "slot": 232
     },
     {
@@ -250,12 +250,5 @@
         "speaker_id": "kevin-wang",
         "speaker_tags": ["kevin-wang"],
         "slot": 235
-    },
-    {
-        "id": "outlook-for-car",
-        "title": "Outlook for the Future Car",
-        "speaker_id": "szymon-pawlowski",
-        "speaker_tags": ["szymon-pawlowski"],
-        "slot": 236
     }
 ]
