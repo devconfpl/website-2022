@@ -127,7 +127,7 @@
     },
     {
       "id": "developing-spring-cloud",
-      "title": "Developing Spring Cloud Micro Services With a Central Environment While Avoiding Service Collisions",
+      "title": "Developing Micro Services in a Central Environment While Avoiding Service Collisions",
       "speaker_id": "dan-erez",
       "speaker_tags": ["dan-erez"],
       "slot": 142
