@@ -250,5 +250,12 @@
         "speaker_id": "kevin-wang",
         "speaker_tags": ["kevin-wang"],
         "slot": 235
+    },
+    {
+        "id": "no-data-or-ambiguous",
+        "title": "No Data or Ambiguous Requirements? – BDD Can Save Your Project and Your Sanity",
+        "speaker_id": "piotr-gayczak",
+        "speaker_tags": ["piotr-gayczak"],
+        "slot": 236
     }
 ]

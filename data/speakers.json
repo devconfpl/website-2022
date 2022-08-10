@@ -330,5 +330,15 @@
             "linkedin": "zachary-markin-35887018"
         },
         "tag": "zach-markin"
+    },
+    {
+        "name": "Piotr Gayczak",
+        "surname": "Gayczak",
+        "company": "Godel Technologies",
+        "social": {
+            "twitter": "",
+            "linkedin": "piotr-gayczak-6456b091"
+        },
+        "tag": "piotr-gayczak"
     }
 ]
