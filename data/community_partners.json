@@ -8,5 +8,11 @@
         "id": "solidjobs",
         "name": "SOLID.Jobs",
         "link": "https://solid.jobs/offers/it"
+    },
+    {
+        "id": "wrocnet",
+        "name": "Wroc.NET",
+        "link": "https://www.meetup.com/pl-PL/wrocnet",
+        "narrow": true
     }
 ]
