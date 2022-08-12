@@ -100,8 +100,8 @@
     {
         "id": "kloadgen",
         "title": "Kloadgen: An empty Kafka is a sad Kafka",
-        "speaker_id": "jose-garcia",
-        "speaker_tags": ["jose-garcia"],
+        "speaker_id": "jose-garcia-pablo-rivadulla",
+        "speaker_tags": ["jose-garcia", "pablo-rivadulla"],
         "slot": 133
     },
     {

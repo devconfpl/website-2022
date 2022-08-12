@@ -200,6 +200,27 @@
         "tag": "jose-garcia"
     },
     {
+        "name": "Pablo López Rivadulla",
+        "surname": "Rivadulla",
+        "company": "Sngular",
+        "social": {
+            "twitter": "",
+            "linkedin": "pablo-josé-lópez-rivadulla-a5916a1a0"
+        },
+        "tag": "pablo-rivadulla"
+    },
+    {
+        "name": "Jose García, Pablo López Rivadulla",
+        "surname": "García",
+        "company": "",
+        "social": {
+            "twitter": "",
+            "linkedin": ""
+        },
+        "tag": "jose-garcia-pablo-rivadulla",
+        "show": false
+    },
+    {
         "name": "Paul Stack",
         "surname": "Stack",
         "company": "Pulumi",
