@@ -36,10 +36,10 @@
         "tier": "gold"
     },
     {
-      "id": "endava",
-      "name": "Endava",
-      "link": "https://www.endava.com/en",
-      "tier": "gold"
+        "id": "endava",
+        "name": "Endava",
+        "link": "https://www.endava.com/en",
+        "tier": "gold"
     },
     {
         "id": "bgk",
@@ -89,6 +89,12 @@
         "id": "godel",
         "name": "Godel Technologies",
         "link": "https://www.godeltech.com/",
+        "tier": "gold"
+    },
+    {
+        "id": "globallogic",
+        "name": "GlobalLogic",
+        "link": "https://www.globallogic.com/pl/",
         "tier": "gold"
     },
     {
