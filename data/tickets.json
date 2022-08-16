@@ -16,13 +16,13 @@
     {
         "name": "Regular",
         "first_month": 6,
-        "last_month": 8,
+        "last_month": 7,
         "price": 999,
         "month_available": "June 2022"
     },
     {
         "name": "Late",
-        "first_month": 9,
+        "first_month": 8,
         "last_month": 9,
         "price": 1299,
         "month_available": "16 August 2022"
