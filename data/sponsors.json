@@ -104,6 +104,12 @@
         "tier": "gold"
     },
     {
+        "id": "affirm",
+        "name": "Affirm",
+        "link": "https://www.affirm.com/careers",
+        "tier": "gold"
+    },
+    {
         "id": "future-processing",
         "name": "Future Processing",
         "link": "https://kariera.future-processing.pl/",
@@ -143,6 +149,12 @@
         "id": "happyteam",
         "name": "HappyTeam",
         "link": "https://happyteam.io/",
+        "tier": "virtual"
+    },
+    {
+        "id": "docaposte",
+        "name": "Docaposte",
+        "link": "https://www.docaposte.com",
         "tier": "virtual"
     }
 ]
