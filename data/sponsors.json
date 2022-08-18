@@ -110,6 +110,12 @@
         "tier": "silver"
     },
     {
+        "id": "tier",
+        "name": "Tier",
+        "link": "https://www.tier.app/",
+        "tier": "silver"
+    },
+    {
         "id": "dataart",
         "name": "DataArt",
         "link": "https://www.dataart.com.pl/",
