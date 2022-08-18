@@ -1,12 +1,3 @@
 Have you ever tried signing into your account and gotten an error message that says "Wrong password. Please try again"? How about "Couldn’t find your account, please try again"? Is there any difference between the two?
 
 Well in the early stages of Affirm, we overlooked this small detail and it cost us big time.
-
-Details (spoiler alert):
-Our sign in form asks you to enter your phone number first. If you were a returning user, then we’d ask you to authenticate with a phone PIN and if you were a new user, we’d redirect you to a sign up form. 
-
-In 2019, we started to notice a huge spike in traffic in the sign in flow. A bunch of requests were getting throttled from attempting to sign in too many times. We realized the requester was malicious and that they were trying to use the sign in flow to enumerate a list of phone numbers that had Affirm accounts. After a few back and forths, we realized we had to fix the UX to remove the information leak. The attacks subsided once we fixed the flow.
-
-A year later we noticed an increased frequency in the amount account takeovers (ATO). The recent cases all had the same MO: someone would call them and pretend that they were from Affirm doing a routine check up. They would social engineer our users into giving them the PIN code required to sign in. We tried a lot of different strategies to mitigate the issue, but had little success. Finally, we came up with a new verification process which involved sending an SMS link to the user. This was able to stop the attackers and stop the bleeding.
-
-Throughout our multi-year long battle, we learned a lot about our weaknesses and defenses. We invested in platform and developed really cool and new ways of battling fraud in real time.
