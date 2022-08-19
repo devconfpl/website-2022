@@ -23,6 +23,14 @@
         "tag": "dddd",
         "description_template": "ddd",
         "summary": "Go beyond the hype and build a solid foundation of theory and practice with this workshop on message-oriented architecture and development."
+      },
+      {
+        "speaker_tags": ["christian-leitwolf"],
+        "speaker_photo_tag": "christian-leitwolf",
+        "title": "Introduction to Mixed Reality: Build and Deploy a Virtual Showroom",
+        "tag": "mixed-reality",
+        "description_template": "mixed-reality",
+        "summary": "If you are curious about XR and familiar with Unity, this hands-on workshop will give you a practical introduction to mixed reality development."
       }
     ]
 }
