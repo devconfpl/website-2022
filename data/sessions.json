@@ -3,259 +3,344 @@
         "id": "opening",
         "title": "Conference Opening",
         "speaker_id": "organizers-pustelnik-abb",
-        "speaker_tags": ["organizers-pustelnik-abb"],
+        "speaker_tags": [
+            "organizers-pustelnik-abb"
+        ],
         "slot": 110
     },
     {
         "id": "effective-developer",
         "title": "The Effective Developer - Work Smarter, Not Harder",
         "speaker_id": "sven-peters",
-        "speaker_tags": ["sven-peters"],
+        "speaker_tags": [
+            "sven-peters"
+        ],
         "slot": 111
     },
     {
         "id": "why-graphql-is-perfect-for-microservices",
         "title": "Why GraphQL is Perfect for Microservices",
         "speaker_id": "roy-derks",
-        "speaker_tags": ["roy-derks"],
+        "speaker_tags": [
+            "roy-derks"
+        ],
         "slot": 112
     },
     {
         "id": "domain-driven-refactoring",
         "title": "Domain-Driven Refactoring",
         "speaker_id": "jimmy-bogard",
-        "speaker_tags": ["jimmy-bogard"],
+        "speaker_tags": [
+            "jimmy-bogard"
+        ],
         "slot": 113
     },
     {
         "id": "ddd-as-the-key",
         "title": "DDD as the Key to Enterprise Multicloud",
         "speaker_id": "angelo-agatino-nicolosi",
-        "speaker_tags": ["angelo-agatino-nicolosi"],
+        "speaker_tags": [
+            "angelo-agatino-nicolosi"
+        ],
         "slot": 114
     },
     {
         "id": "predicting-f1-race-strategies",
         "title": "Predicting F1 Race Strategies Using ML.NET",
         "speaker_id": "michal-lusiak",
-        "speaker_tags": ["michal-lusiak"],
+        "speaker_tags": [
+            "michal-lusiak"
+        ],
         "slot": 115
     },
     {
         "id": "use-principles-of-psychology",
         "title": "Use Principles of Psychology to Build Better Software",
         "speaker_id": "rachel-appel",
-        "speaker_tags": ["rachel-appel"],
+        "speaker_tags": [
+            "rachel-appel"
+        ],
         "slot": 116
     },
     {
         "id": "the-future-of-computing",
         "title": "The Future of Computing with Spatial Computing and Quantum Computing",
         "speaker_id": "rene-schulte",
-        "speaker_tags": ["rene-schulte"],
+        "speaker_tags": [
+            "rene-schulte"
+        ],
         "slot": 117
     },
     {
         "id": "plain-text",
         "title": "Plain Text",
         "speaker_id": "dylan-beattie",
-        "speaker_tags": ["dylan-beattie"],
+        "speaker_tags": [
+            "dylan-beattie"
+        ],
         "slot": 122
     },
     {
         "id": "are-all-programming-languages",
         "title": "Are All Programming Languages in English?",
         "speaker_id": "michele-riva",
-        "speaker_tags": ["michele-riva"],
+        "speaker_tags": [
+            "michele-riva"
+        ],
         "slot": 123
     },
     {
         "id": "everything-you-dont-git",
         "title": "Everything You Don't Need to Know About Git",
         "speaker_id": "garance-vallat",
-        "speaker_tags": ["garance-vallat"],
+        "speaker_tags": [
+            "garance-vallat"
+        ],
         "slot": 124
     },
     {
         "id": "hackathons",
         "title": "Hackathons - Unleashing Hidden Potential in Organizations and Empower Individuals",
         "speaker_id": "andreas-erben",
-        "speaker_tags": ["andreas-erben"],
+        "speaker_tags": [
+            "andreas-erben"
+        ],
         "slot": 125
     },
     {
         "id": "the-state-of-modern-apis",
         "title": "The State of Modern APIs - Comparing GraphQL, REST, and gRPC",
         "speaker_id": "spencer-schneidenbach",
-        "speaker_tags": ["spencer-schneidenbach"],
+        "speaker_tags": [
+            "spencer-schneidenbach"
+        ],
         "slot": 126
     },
     {
         "id": "5-unit-testing-facts",
         "title": "5 Unit Testing Facts I Wish I Knew 10 Years Ago",
         "speaker_id": "dror-helper",
-        "speaker_tags": ["dror-helper"],
+        "speaker_tags": [
+            "dror-helper"
+        ],
         "slot": 132
     },
     {
         "id": "kloadgen",
         "title": "Kloadgen: An empty Kafka is a sad Kafka",
         "speaker_id": "jose-garcia-pablo-rivadulla",
-        "speaker_tags": ["jose-garcia", "pablo-rivadulla"],
+        "speaker_tags": [
+            "jose-garcia",
+            "pablo-rivadulla"
+        ],
         "slot": 133
     },
     {
         "id": "scaling-your-data",
         "title": "Scaling your data to the size of the Cosmos (DB)",
         "speaker_id": "olena-borzenko",
-        "speaker_tags": ["olena-borzenko"],
+        "speaker_tags": [
+            "olena-borzenko"
+        ],
         "slot": 134
     },
     {
         "id": "creative-coding",
         "title": "Creative Coding in Your Web Browser",
         "speaker_id": "konstantin-bifert",
-        "speaker_tags": ["konstantin-bifert"],
+        "speaker_tags": [
+            "konstantin-bifert"
+        ],
         "slot": 135
     },
     {
         "id": "stop-configuring-infrastructure",
         "title": "Stop configuring infrastructure, start coding it!",
         "speaker_id": "julian-lang-martin-sakowski",
-        "speaker_tags": ["julian-lang", "martin-sakowski"],
+        "speaker_tags": [
+            "julian-lang",
+            "martin-sakowski"
+        ],
         "slot": 136
     },
     {
-      "id": "developing-spring-cloud",
-      "title": "Developing Micro Services in a Central Environment While Avoiding Service Collisions",
-      "speaker_id": "dan-erez",
-      "speaker_tags": ["dan-erez"],
-      "slot": 142
+        "id": "developing-spring-cloud",
+        "title": "Developing Micro Services in a Central Environment While Avoiding Service Collisions",
+        "speaker_id": "dan-erez",
+        "speaker_tags": [
+            "dan-erez"
+        ],
+        "slot": 142
     },
     {
         "id": "reuniting-micro-service-data",
         "title": "Re-Uniting Micro Service Data: A Streaming Story",
         "speaker_id": "frank-lyaruu",
-        "speaker_tags": ["frank-lyaruu"],
+        "speaker_tags": [
+            "frank-lyaruu"
+        ],
         "slot": 143
-      },
+    },
+    {
+        "id": "software-is-eating-healthcare",
+        "title": "Software is Eating Healthcare",
+        "speaker_id": "zach-markin",
+        "speaker_tags": [
+            "zach-markin"
+        ],
+        "slot": 146
+    },
     {
         "id": "can-vr-change-the-real-world",
         "title": "Can Virtual Reality Change the Real World?",
         "speaker_id": "piotr-loj",
-        "speaker_tags": ["piotr-loj"],
+        "speaker_tags": [
+            "piotr-loj"
+        ],
         "slot": 211
     },
     {
         "id": "your-infrastructure",
         "title": "Your Infrastructure Needs To D.I.E.",
         "speaker_id": "timothy-mamo",
-        "speaker_tags": ["timothy-mamo"],
+        "speaker_tags": [
+            "timothy-mamo"
+        ],
         "slot": 212
     },
     {
         "id": "infrastructure-of-code",
         "title": "The Resurgence of Infrastructure as Code",
         "speaker_id": "paul-stack",
-        "speaker_tags": ["paul-stack"],
+        "speaker_tags": [
+            "paul-stack"
+        ],
         "slot": 213
     },
     {
         "id": "building-a-software-company",
         "title": "Building a Software Company From The Ground Up - Facts, Myths, and Everything In Between",
         "speaker_id": "spencer-schneidenbach",
-        "speaker_tags": ["spencer-schneidenbach"],
+        "speaker_tags": [
+            "spencer-schneidenbach"
+        ],
         "slot": 214
     },
     {
         "id": "consistency-and-agreements",
         "title": "Consistency and Agreements in Microservices",
         "speaker_id": "jimmy-bogard",
-        "speaker_tags": ["jimmy-bogard"],
+        "speaker_tags": [
+            "jimmy-bogard"
+        ],
         "slot": 215
     },
     {
         "id": "from-turing-to-big-data",
         "title": "From Turing to Big Data: A Look at Computing and Analytics",
         "speaker_id": "pj-hagerty",
-        "speaker_tags": ["pj-hagerty"],
+        "speaker_tags": [
+            "pj-hagerty"
+        ],
         "slot": 216
     },
     {
         "id": "what-srocery-is-this",
         "title": "What Sorcery is This? How Software Uses Dark Patterns to Manipulate Users",
         "speaker_id": "rachel-appel",
-        "speaker_tags": ["rachel-appel"],
+        "speaker_tags": [
+            "rachel-appel"
+        ],
         "slot": 217
     },
     {
         "id": "foundations-of-the-metaverse",
         "title": "Foundations of the MetaVerse: Azure Spatial Anchors and Understanding 3D Space",
         "speaker_id": "andreas-erben",
-        "speaker_tags": ["andreas-erben"],
+        "speaker_tags": [
+            "andreas-erben"
+        ],
         "slot": 222
     },
     {
         "id": "tba",
         "title": "TBA",
         "speaker_id": "jesse-mcculloch",
-        "speaker_tags": ["jesse-mcculloch"],
+        "speaker_tags": [
+            "jesse-mcculloch"
+        ],
         "slot": 223
     },
     {
         "id": "is-decentralization",
         "title": "Is Decentralization the Paneceum for the 21st Century? Let's Find Out.",
         "speaker_id": "sebastian-gebski",
-        "speaker_tags": ["sebastian-gebski"],
+        "speaker_tags": [
+            "sebastian-gebski"
+        ],
         "slot": 224
     },
     {
         "id": "consistent-ux-at-scale",
         "title": "Consistent UX at Scale: Lessons Learned When I Wore the DesignOps Hat",
         "speaker_id": "matheus-albuquerque",
-        "speaker_tags": ["matheus-albuquerque"],
+        "speaker_tags": [
+            "matheus-albuquerque"
+        ],
         "slot": 225
     },
     {
         "id": "outlook-for-car",
         "title": "Outlook for the Future Car",
         "speaker_id": "szymon-pawlowski",
-        "speaker_tags": ["szymon-pawlowski"],
+        "speaker_tags": [
+            "szymon-pawlowski"
+        ],
         "slot": 232
     },
     {
         "id": "from-ukrainian-moonshine",
         "title": "From Ukrainian Moonshine to Azure CosmosDB",
         "speaker_id": "olena-borzenko",
-        "speaker_tags": ["olena-borzenko"],
+        "speaker_tags": [
+            "olena-borzenko"
+        ],
         "slot": 226
     },
     {
         "id": "wireless-mission-critical-5g",
         "title": "Wireless Mission Critical Networks With 5G",
         "speaker_id": "bartosz-nawrot",
-        "speaker_tags": ["bartosz-nawrot"],
+        "speaker_tags": [
+            "bartosz-nawrot"
+        ],
         "slot": 233
     },
     {
         "id": "developer-guide-to-aws",
         "title": "A Software Developer Guide to Working With AWS",
         "speaker_id": "dror-helper",
-        "speaker_tags": ["dror-helper"],
+        "speaker_tags": [
+            "dror-helper"
+        ],
         "slot": 234
     },
     {
         "id": "fraud-never-sleeps",
         "title": "#FraudNeverSleeps",
         "speaker_id": "kevin-wang",
-        "speaker_tags": ["kevin-wang"],
+        "speaker_tags": [
+            "kevin-wang"
+        ],
         "slot": 235
     },
     {
         "id": "no-data-or-ambiguous",
         "title": "No Data or Ambiguous Requirements? – BDD Can Save Your Project and Your Sanity",
         "speaker_id": "piotr-gayczak",
-        "speaker_tags": ["piotr-gayczak"],
+        "speaker_tags": [
+            "piotr-gayczak"
+        ],
         "slot": 236
     }
 ]
