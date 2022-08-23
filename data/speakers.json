@@ -382,5 +382,25 @@
         },
         "tag": "christian-glessner-zaid-zaim",
         "show": false
+    },
+    {
+        "name": "Calin Constantinov",
+        "surname": "Constantinov",
+        "company": "Endava",
+        "social": {
+            "twitter": "",
+            "linkedin": "calinconstantinov"
+        },
+        "tag": "calin-constantinov"
+    },
+    {
+        "name": "Liviu Bobocu",
+        "surname": "Bobocu",
+        "company": "Endava",
+        "social": {
+            "twitter": "",
+            "linkedin": "liviu-alexandru-bobocu-7b33277a"
+        },
+        "tag": "liviu-bobocu"
     }
 ]

@@ -183,6 +183,24 @@
         "slot": 143
     },
     {
+        "id": "non-blocking-event-handling",
+        "title": "Non-Blocking Event Handling with Project Reactor",
+        "speaker_id": "calin-constantinov",
+        "speaker_tags": [
+            "calin-constantinov"
+        ],
+        "slot": 144
+    },
+    {
+        "id": "recycling-the-web",
+        "title": "Recycling the Web: Rust and WebAssembly for a Cleaner, Safer Web Ecosystem",
+        "speaker_id": "liviu-bobocu",
+        "speaker_tags": [
+            "liviu-bobocu"
+        ],
+        "slot": 145
+    },
+    {
         "id": "5-unit-testing-facts",
         "title": "5 Unit Testing Facts I Wish I Knew 10 Years Ago",
         "speaker_id": "dror-helper",

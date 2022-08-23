@@ -1,0 +1,5 @@
+When thinking of frontend development (but not only), most of us are having in mind working with JavaScript frameworks (React, Angular, Vue, Svelte, Alpine.js, etc) and the Node ecosystem.
+ 
+Although it is really productive (fast prototyping, easy to use and understand) and nowadays frameworks are saving us from a great deal of pain with state management (Redux, NgRx, Vuex, etc), modern frontend development has its pitfalls.
+These pitfalls are related to one single aspect which most developers ignore completely until a general performance production issue appears through another pillar of complexity: memory management. These production issues can be seen then in the entire application, flows are slowing down or not working at all, and even though HTTP requests might work as expected in terms of latency, the frontend side, in almost all cases, produces lots of residue from large JS objects.
+Let’s see how we can reduce some of this waste, by going low level, by coding some of the bits with Rust, compiling to WebAssembly and then bundling a somewhat different kind of frontend application, one that has JavaScript modules and WebAssembly modules.
