@@ -117,11 +117,12 @@
         "slot": 126
     },
     {
-        "id": "tba",
-        "title": "TBA",
-        "speaker_id": "jesse-mcculloch",
+        "id": "master-the-jump-into-mr",
+        "title": "Powered by Microsoft: Let's Master the Jump into MR",
+        "speaker_id": "christian-glessner-zaid-zaim",
         "speaker_tags": [
-            "jesse-mcculloch"
+            "zaid-zaim",
+            "christian-glessner"
         ],
         "slot": 132
     },

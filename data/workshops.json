@@ -25,8 +25,8 @@
         "summary": "Go beyond the hype and build a solid foundation of theory and practice with this workshop on message-oriented architecture and development."
       },
       {
-        "speaker_tags": ["christian-leitwolf"],
-        "speaker_photo_tag": "christian-leitwolf",
+        "speaker_tags": ["christian-glessner", "zaid-zaim"],
+        "speaker_photo_tag": "christian-glessner-zaid-zaim",
         "title": "Introduction to Mixed Reality: Build and Deploy a Virtual Showroom",
         "tag": "mixed-reality",
         "description_template": "mixed-reality",

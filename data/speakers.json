@@ -364,12 +364,33 @@
     },
     {
         "name": "Christian Glessner Leitwolf",
-        "surname": "Leitwolf",
+        "surname": "Glessner",
         "company": "Hololux",
         "social": {
             "twitter": "",
             "linkedin": "christian-glessner"
         },
-        "tag": "christian-leitwolf"
+        "tag": "christian-glessner"
+    },
+    {
+        "name": "Zaid Zaim",
+        "surname": "Zaim",
+        "company": "Hololux",
+        "social": {
+            "twitter": "",
+            "linkedin": "zaidzaim"
+        },
+        "tag": "zaid-zaim"
+    },
+    {
+        "name": "Christian Glessner, Zaid Zaim",
+        "surname": "Glessner",
+        "company": "Hololux",
+        "social": {
+            "twitter": "",
+            "linkedin": ""
+        },
+        "tag": "christian-glessner-zaid-zaim",
+        "show": false
     }
 ]
