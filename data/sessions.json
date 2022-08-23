@@ -117,11 +117,11 @@
         "slot": 126
     },
     {
-        "id": "5-unit-testing-facts",
-        "title": "5 Unit Testing Facts I Wish I Knew 10 Years Ago",
-        "speaker_id": "dror-helper",
+        "id": "tba",
+        "title": "TBA",
+        "speaker_id": "jesse-mcculloch",
         "speaker_tags": [
-            "dror-helper"
+            "jesse-mcculloch"
         ],
         "slot": 132
     },
@@ -173,20 +173,20 @@
         "slot": 142
     },
     {
-        "id": "reuniting-micro-service-data",
-        "title": "Re-Uniting Micro Service Data: A Streaming Story",
-        "speaker_id": "frank-lyaruu",
-        "speaker_tags": [
-            "frank-lyaruu"
-        ],
-        "slot": 143
-    },
-    {
         "id": "software-is-eating-healthcare",
         "title": "Software is Eating Healthcare",
         "speaker_id": "zach-markin",
         "speaker_tags": [
             "zach-markin"
+        ],
+        "slot": 143
+    },
+    {
+        "id": "5-unit-testing-facts",
+        "title": "5 Unit Testing Facts I Wish I Knew 10 Years Ago",
+        "speaker_id": "dror-helper",
+        "speaker_tags": [
+            "dror-helper"
         ],
         "slot": 146
     },
@@ -263,11 +263,11 @@
         "slot": 222
     },
     {
-        "id": "tba",
-        "title": "TBA",
-        "speaker_id": "jesse-mcculloch",
+        "id": "reuniting-micro-service-data",
+        "title": "Re-Uniting Micro Service Data: A Streaming Story",
+        "speaker_id": "frank-lyaruu",
         "speaker_tags": [
-            "jesse-mcculloch"
+            "frank-lyaruu"
         ],
         "slot": 223
     },
