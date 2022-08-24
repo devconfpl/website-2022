@@ -156,5 +156,11 @@
         "name": "Docaposte",
         "link": "https://www.docaposte.com",
         "tier": "virtual"
+    },
+    {
+        "id": "medallia",
+        "name": "Medallia",
+        "link": "https://www.medallia.com/?utm_source=devconf_poland",
+        "tier": "virtual"
     }
 ]
