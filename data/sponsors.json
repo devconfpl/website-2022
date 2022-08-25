@@ -18,6 +18,12 @@
         "tier": "gold"
     },
     {
+        "id": "nordea",
+        "name": "Nordea",
+        "link": "https://www.nordea.com/",
+        "tier": "gold"
+    },
+    {
         "id": "tietoevry",
         "name": "Tietoevry",
         "link": "https://www.tietoevry.com/pl/",
