@@ -402,5 +402,15 @@
             "linkedin": "liviu-alexandru-bobocu-7b33277a"
         },
         "tag": "liviu-bobocu"
+    },
+    {
+        "name": "Adam Furmanek",
+        "surname": "Furmanek",
+        "company": "Alexa",
+        "social": {
+            "twitter": "furmanekadam",
+            "linkedin": "adam-furmanek"
+        },
+        "tag": "adam-furmanek"
     }
 ]

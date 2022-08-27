@@ -361,5 +361,14 @@
             "piotr-gayczak"
         ],
         "slot": 236
+    },
+    {
+        "id": "challenges-of-alexa",
+        "title": "Challenges and Evolution of Alexa Text-To-Speech",
+        "speaker_id": "adam-furmanek",
+        "speaker_tags": [
+            "adam-furmanek"
+        ],
+        "slot": 242
     }
 ]
