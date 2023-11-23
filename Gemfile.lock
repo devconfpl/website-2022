@@ -33,6 +33,7 @@ GEM
     fast_blank (1.0.1)
     fastimage (2.2.6)
     fastly (1.15.0)
+    ffi (1.15.5)
     ffi (1.15.5-x64-mingw32)
     fog-aws (1.4.1)
       fog-core (~> 1.38)
@@ -142,6 +143,10 @@ GEM
     netrc (0.11.0)
     nokogiri (1.13.6-x64-mingw32)
       racc (~> 1.4)
+    nokogiri (1.13.6-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.6-x86_64-linux)
+      racc (~> 1.4)
     padrino-helpers (0.15.1)
       i18n (>= 0.6.7, < 2)
       padrino-support (= 0.15.1)
@@ -156,6 +161,10 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     redcarpet (3.5.1)
+    rest-client (2.0.2)
+      http-cookie (>= 1.0.2, < 2.0)
+      mime-types (>= 1.16, < 4.0)
+      netrc (~> 0.8)
     rest-client (2.0.2-x64-mingw32)
       ffi (~> 1.9)
       http-cookie (>= 1.0.2, < 2.0)
@@ -163,6 +172,8 @@ GEM
       netrc (~> 0.8)
     rexml (3.2.5)
     ruby-progressbar (1.11.0)
+    sassc (2.4.0)
+      ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     servolux (0.13.0)
@@ -184,13 +195,14 @@ GEM
       execjs (>= 0.3.0, < 3)
     unf (0.1.4)
       unf_ext
+    unf_ext (0.0.8.2)
     unf_ext (0.0.8.2-x64-mingw32)
-    wdm (0.1.1)
     webrick (1.7.0)
     zeitwerk (2.6.0)
 
 PLATFORMS
   x64-mingw32
+  x86_64-darwin-23
   x86_64-linux
 
 DEPENDENCIES
@@ -200,7 +212,6 @@ DEPENDENCIES
   middleman-s3_sync
   redcarpet (~> 3.5)
   tzinfo-data
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
-   2.2.29
+   2.4.7
